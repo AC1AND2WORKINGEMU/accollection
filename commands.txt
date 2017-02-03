@@ -1,0 +1,72 @@
+@Lifestone
+
+-- !help - ex, !help !setscale
+-- !teleloc - Teleports user to landblock specified 
+-- !spawnsave - spawn monster by name and save to database 
+-- !spawnmonster - spawn a monster by name - No save 
+-- !spawntype - spawn monster by Model ID 
+-- !weapon - spawn a wieldable weapon 
+-- !clearobjects - clear user spawned objects (does not include monsters) 
+-- !wb - World Broadcast 
+-- !particle - display particle effect 
+-- !getchar - get character 
+-- !gotochar - goto specified character 
+-- !returnchar - return user 
+-- !sendchar - send character to location 
+-- !spwnid - spawn an object by ID number only 
+-- !spawnid - spawn an object setting values 
+-- !help - Help list 
+-- !global (!g) - global message 
+-- !shout (!s) - same as global 
+-- !home - teleport user to login spawn point 
+-- !telemap - teleport user to specified map coordinates 
+-- !recordloc - save location as login point 
+-- !armor - spawns armor 
+-- !animation - perform specified animation 
+-- !setmodel - sets Avatar model 
+-- !setscale - change scale of Avatar model 
+-- !version - dislpay servers version number 
+
+Spawntype - spawns selected modelID w/fixed stats and with name specified 
+Command: !spawntype "name" ID 
+example:  !spawntype "Drudge Slinker" 2 
+-- spawns MonsterModel #2 with the name Drudge Slinker 
+
+Spawnmonster - spawns a pre-defined monster by it's Name 
+Command: !spawnmonster "name" 
+example: !spawnmonster "Drudge Slinker" 
+-- spawns a Drudge Slinker with stats from DB  
+
+Spawnsave - Creates the specified Monster and Saves to Database at current location. 
+Command: !spawnsave "Name" [override] [respawn] [decay] [chase] [influence] 
+Example: !spawnsave "Drudge Slinker" 1 60 120 3 2 (Override db values) 
+Example: !spawnsave "Drudge Slinker" 0 (Use preset db values) 
+Override: 0 -> false, 1 -> true 
+Name: The Monster Type by Name to spawn.  
+respawn: 0 -> no respawn, ## -> delay in secs to respawn after corpse decay. 
+decay: ## -> time in secs for corpse to remain before removal. 
+chase: # -> Distance away from spawn point to chase user. 
+influence: ## -> Radius for Auto Attack (1 - 3 is suffecient) 
+
+Monster Primary Stats are setable from within the Access database, adding all them to a command would make the command overly long to enter.
+
+
+
+
+
+FROM SMITHY'S ANVIL, RETRIEVED 15 JAN 2008
+
+Working????
+
+Note: Current object code being worked on will allow the following:
+/create melee_weapon
+/create missle_weapon
+/create magic_weapon
+/create scroll
+/create mana_stone
+/create armor
+/create key
+/create book
+/create food
+/create misc
+/create clothing 

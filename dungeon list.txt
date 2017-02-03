@@ -1,0 +1,598 @@
+Dungeon List:
+0100 - Murk Warrens #1
+0101 - Murk Warrens #2
+0102 - Murk Warrens #3
+0103 - Black Spawn Den #1
+0104 - Black Spawn Den #2
+0105 - Black Spawn Den #3
+0106 - Setab's Barracks
+0107 - Nor's Folly
+0108 - Cursed Swamp
+0109 - Dungeon of Corpses
+010A - Black Dominion
+010B - Asuger Temple
+010C - Mysterious Tunnels
+010D - Admin Waiting Room?
+010E - Admin Waiting Room? #2
+010F - Admin Waiting Room? #3
+0110 - Nexus_
+0111 - Sentinal Storage Dungeon
+0112 - Lyceum Training Grounds
+0113 - Amiantos Bethel
+0114 - magma place
+0115 - Wedding Hall
+0116 - Tenkarrdun Foundry
+0117 - Serac Vault
+0119 - Amperehelion Vault
+011A - Incunabula Vault
+011B - Jahannan Vault
+011C - Mountain Fortress
+011D - Al-Arqas Meeting Hall
+011E - Al-Jalima Meeting Hall
+011F - Arwic Meeting Hall
+0120 - Baishi Meeting Hall
+0121 - Cragstone Meeting Hall
+0122 - Eastham Meeting Hall
+0123 - Glendon Wood Meeting Hall
+0124 - Hebian-to Meeting Hall
+0125 - Holtburg Meeting Hall
+0126 - Khayaban Meeting Hall
+0127 - Lin Meeting Hall
+0128 - Lythelthorpe Meeting Hall
+0129 - Mayoi Meeting Hall
+012A - Nanto Meeting Hall
+012B - Qalaba'r Meeting Hall
+012C - Rithwic Meeting Hall
+012D - Samsur Meeting Hall
+012E - Sawato Meeting Hall
+012F - Shoushi Meeting Hall
+0130 - Tou-Tou Meeting Hall
+0131 - Tufa Meeting Hall
+0132 - Uziz Meeting Hall
+0133 - Yanshi Meeting Hall
+0134 - Yaraq Meeting Hall
+0135 - Zaikhal Meeting Hall
+0136 - Empyrean Foundry
+0137 - Artifex Vault
+0138 - Lost City of Frore
+0139 - Mage Academy
+013A - Itty Bitty Room
+013B - Folthid Cellar
+013C - Arboretum
+013D - Forbidden Crypt
+013E - Burial Temple
+013F - Saadia's Retreat
+0140 - Virindi Fort
+0141 - Enkindled Souls
+0142 - Recovered Temple
+0143 - Phyntos Menace
+0144 - Darkened Halls
+0145 - Bone Lair
+0146 - Mount Lethe Magma Tubes
+0147 - Mount Naipenset Caverns
+0148 - A Small Ruin
+0149 - Thieves' Galleries
+014A - Mysterious Cave
+014B - Winthura's Garden
+014C - Nevius Passage
+014D - Damp Caverns
+014E - Smuggler's Hideaway
+014F - Dungeon Maggreth
+0150 - Filo's Doom
+0151 - Forgotten Temple
+0152 - Ruined Cave Outpost
+0153 - Shreth Hive 
+0154 - Stone Cathedral
+0155 - Musansayn's Vault
+0156 - Sea Temple Catacombs
+0157 - Under-Cove Crypt
+0158 - Lytaway Dungeon
+0159 - Abandoned Shops
+015A - Dry Well
+015B - Unfinished Temple
+015C - Nanto Rat Lair
+015D - Mountain Cavern
+015E - Impious Temple
+0161 - Empyrean Garrison
+0162 - Cave of Alabree
+0163 - Holtburg Redoubt
+0164 - Lost Distillery
+0165 - Old Warehouse
+0166 - Deserted Ruin
+0167 - Desert Ruin
+0168 - Water Temple
+0169 - Mattekar Cave
+016C - Marketplace
+016D - First Training Hall Ever
+016F - Tutorial Dungeon (N Yaraq)
+0170 - Tutorial Dungeon (E Yaraq)
+0171 - Tutorial Dungeon (S Yanshi)
+0172 - Tutorial Dungeon (N Yanshi)
+0173 - Tutorial Dungeon (SE Shoushi)
+0174 - Tutorial Dungeon (W Shoushi)
+0175 - Tutorial Dungeon (NW Samsur)
+0176 - Tutorial Dungeon (E Samsur)
+0177 - Tutorial Dungeon (S Rithwic)
+0178 - Tutorial Dungeon (E Rithwic)
+0179 - Tutorial Dungeon (N Nanto)
+017A - Tutorial Dungeon (E Nanto)
+017B - Tutorial Dungeon (W Lythelthorpe)
+017C - Tutorial Dungeon (E Lythelthorpe)
+017D - Tutorial Dungeon (W Holtburg)
+017E - Tutorial Dungeon (S Holtburg)
+017F - Tutorial Dungeon (N Al-Arqas)
+0180 - Tutorial Dungeon (W Al-Arqas)
+0181 - Dungeon Nye
+0182 - Desert Mine
+0183 - Dungeon Binar
+0184 - Dungeon Mei
+0185 - Daiklos Dungeon
+0186 - Sclavus Keep
+0187 - A Ruin (Arwic)
+0188 - Mines of Despair
+0189 - Grievous Vault
+018A - Advocate Dungeon
+018B - A Cave
+018C - Crater Lair
+018D - Olthoi Tunnels
+018F - Carved Cave
+0190 - Old Mine
+0191 - Mountain Sewer
+0192 - Mountain Halls
+0193 - Knath Lair
+0194 - First Training Hall Ever
+0195 - First Training Hall Ever
+0196 - First Training Hall Ever
+0197 - First Training Hall Ever
+0198 - First Training Hall Ever
+0199 - First Training Hall Ever
+019A - Crater Caves
+019B - Lightless Catacombs
+019C - Swamp Temple
+019D - Simple Tower
+019E - A Drudge Hideout
+019F - Tumerok Post
+01A0 - Tumerok Dungeon
+01A1 - Tumerok Base
+01A2 - Swamp Temple
+01A3 - The Pit
+01A4 - Mite Tunnels
+01A5 - Inner Dungeon
+01A6 - Disaster Maze
+01A7 - Crater Pathway
+01A8 - Abandoned Arena
+01A9 - Ancient Lighthouse
+01AA - Lair of Death
+01AB - Forking Trail
+01AC - Adventurer's Haven
+01AD - Dungeon Gallery Tower
+01AE - Colier Mine
+01AF - Lakeside Lair
+01B0 - Seaside Lair
+01B1 - Lost Garden Ruins
+01B2 - Web Maze
+01B3 - Dungeon Fern
+01B4 - Golem Burial Ground
+01B5 - Rocky Crypt
+01B6 - Dungeon Muddy
+01B7 - A Ruin (Shoushi)
+01B8 - A Ruin (Rithwic)
+01B9 - A Ruin (Samsur)
+01BA - Dungeon of Tatters
+01BB - Thief Trail
+01BC - Tumerok Chamber
+01BD - A Cave
+01BE - Tumerok Fortress
+01BF - Tumerok Outpost
+01C0 - Small Complex
+01C1 - Tumerok Mine
+01C2 - Underground Passage
+01C3 - Trialos
+01C4 - Thasali
+01C5 - Swamp Ruin
+01C6 - Hunter's Leap Dungeon
+01C7 - Lugian Fortress?
+01C8 - Lugian Post
+01C9 - Abandoned Mine
+01CA - Hebian-to Sewers
+01CB - Tutorial Dungeon 
+01CC - Halls of the Helm
+01CD - Rithwic Crypt
+01CE - Hall of Lost Light
+01CF - Eastham Sewers
+01D0 - Yanshi Tunnel
+01D2 - Mountain Keep
+01D3 - Zabool Tower Base
+01D4 - Bellig Tower Base
+01D5 - Syliph Tower
+01D6 - Alfreth Dungeon
+01D7 - Sylsfear Dungeon
+01D8 - A Drudge Nest
+01D9 - A Red Rat Lair
+01DA - A Ruin (Yanshi)
+01DB - Moss Chamber
+01DC - A Drudge Nest
+01DD - A Rat Nest
+01DE - A Ruin (Mayoi)
+01DF - A Mosswart Nest
+01E0 - Banderling Ruin
+01E1 - Thieve's Den
+01E2 - Bandit Castle Prison
+01E3 - Glenden Wood Dungeon
+01E4 - North Glenden Prison
+01E5 - Green Mire Grave
+01E6 - Small Icecave
+01E7 - A Small Cave
+01E8 - Dungeon Manor
+01E9 - Underground City
+01EA - Old Talisman Dungeon
+01ED - Dungeon of Shadows
+01EE - Black Death Catacombs (old ID)
+01EF - Arwic Mines
+01F3 - Tomb of the Dead
+01F4 - Lyceum Training Grounds
+01F5 - Aerfalle Keep
+01F6 - Holtburg Dungeon
+01F7 - Shoushi Grotto
+01F8 - Mite Maze
+01F9 - Accursed Halls
+01FA - Crypt of Ashen Tears
+01FB - Yaraq Tunnels
+01FC - ReedShark Lair
+01FD - Trothyr's Rest
+0275 - Cragstone Reinforcements Tower
+027D - Lair of Eviscerators
+027E - Martinate Holding
+027F - East Fork Dam Hive
+0282 - Olthoi Soldier Nest
+0283 - The Dark Lair
+0284 - Abandoned Tumerok Site
+0285 - Wasteland Hive
+0286 - Tumerok Cave
+0287 - Aun Papileona's Shrine
+0288 - Royal Hive
+0289 - Tiny Hive
+028A - Small Hive
+028B - Simple Hive
+028C - Shallow Hive
+028D - New Hive
+028E - Palenqual's Cavern
+028F - Swamp Gardens
+0290 - Stable Rift
+0291 - Singularity Bore
+0292 - Tumerok Cavern
+0293 - Habitat
+0294 - Land Bridge Staging Complex: Director's Private Chamber
+0295 - Inculcation Cells
+0296 - South Quiddity Dungeon
+0297 - North Quiddity Dungeon
+0298 - Land Bridge Staging Complex: Main
+0299 - Larry's Garden
+029A - Gredaline Consulate : Envoy's Chamber
+029B - Gredaline Consulate : Main
+029C - Linvak Tukal Entryway
+029D - Mnenosyne Collection Site
+029E - Aerbbax Laboratory : Main
+029F - Aerbbax Laboratory : Haven
+02A0 - Sand Shallow
+02A1 - Panopticon
+02A2 - Mage Armor
+02A3 - Moss Chamber NPC room 
+02A4 - South Tumerok Vanguard Outpost
+02A5 - North Tumerok Vanguard Outpost
+02A6 - Lyceum Training Grounds
+02A7 - Lyceum Training Grounds
+02A8 - Lyceum Training Grounds
+02A9 - Hieromancer's Hall
+02AA - Desert March
+02AB - Beyond the Mines of Despair
+02AC - Empyrean Cloister: Lower/Upper (Mausoleum)
+02AD - Empyrean Cloister: Entrance
+02AE - Chakron Flux: Entrance
+02AF - Chakron Flux: Lower & Upper
+02B0 - Sepulcher of the Hopeslayer
+02B1 - Shade Stronghold
+02B2 - Heart of Darkness
+02B3 - Moars Laboratory
+02B4 - A Mosswart Hideout
+02B5 - Moarsmen Spawning Grounds
+02B6 - Idol Spawning Grounds
+02B7 - Catacombs of Ithaenc
+02B8 - Rumuba's Hidey Hole
+02BA - Moars
+02BB - Jungle Shadows
+02BC - Mosswart Nest
+02BD - Small Ruin
+02BE - Small Temple
+02BF - Small Temple
+02C0 - Small Temple
+02C1 - Mud Cave
+02C2 - Moarsman Muck
+02C3 - Slithis Pit
+02C4 - Moarsmen Hideout
+02C5 - Treacherous Tunnels
+02C6 - Lightless Tunnels
+02C7 - Tumideon Fortress
+02C8 - Banderling Conquest Dungeon
+02C9 - Sotiris Dungeon
+02CA - Mosswart Maze
+02CB - The Floating City (bar)
+02CC - The Floating City (museum)
+02CD - The Floating City (Tunnels)
+02CE - The Floating City (construction area)
+02CF - The Floating City (skyway)
+02D0 - The Floating City (lost chamber)
+02D1 - The Floating City (banderling area)
+02D2 - Uninhabited Area
+02D3 - Sandstone Room
+02D4 - Xarabydun
+02D7 - Shendolain
+02DA - Fenmalain : Chamber
+02DB - Fenmalain : Vestibule
+02DC - Caulnalain Vestibule
+02DF - Caulnalain Chamber
+02E0 - Shendolain Vestibule
+02E1 - The Golem Sanctum
+02E2 - Arena
+02E3 - Arena
+02E5 - Krau Li's Labyrinth
+02E6 - Catacombs of the Forgotten
+02E7 - Lugian Excavations
+02E8 - Lugian Quarry
+02E9 - Lugian Mines
+02EA - Really Small Dungeon
+02EC - 2 rooms with purple circle
+02ED - Aerlinthe Reservoir (Lower)
+02EE - Aerlinthe Reservoir (Upper)
+02EF - Soul Fearing Vestry
+02F0 - Lugian Citadel #1 (Hills)
+02F1 - Lugian Citadel #2 (Ridge)
+02F2 - Lugian Citadel #3 (Wilderness)
+02F3 - Hall of Metos #1
+02F4 - Hall of Metos #2
+02F5 - Hall of Metos #3
+02F6 - Sclavus Cathedral (N AB)
+02F7 - Sclavus Cathedral (W Dire)
+02F8 - Sclavus Cathedral (E Dire)
+02F9 - Sentinel Flaming Cheese Room
+02FA - Admin Flaming Log Room
+02FB - Olthoi Horde Nest
+02FC - Olthoi Horde Nest
+02FD - Olthoi Horde Nest
+0363 - Training Academy (Holtburg S)
+0364 - Training Academy (Holtburg W)
+0365 - Training Academy (Shoushi SE)
+0366 - Training Academy (Shoushi W)
+0367 - Training Academy (Yaraq E)
+0368 - Training Academy (Yaraq N)
+039C - Hollow Lair (Lytelthorpe)
+039D - Newbie Coat Dungeon
+039E - Seat of the New Singularity
+039F - Singular Obsidian Repository
+03A0 - Singular Chorizite Repository
+03A1 - Singular Pyreal Repository
+03A2 - Southern Infiltrator Keep
+03A3 - Northern Infiltrator Keep
+03A4 - The Asteliary
+03A6 - North Fork Dam Hive
+03A7 - Mount Elyrii Hive
+5269 - Wedding Trial Dungeon
+526A - Portal Space 3: Empyrean + Lilitha's Room + Final Room
+526B - Portal Space 2: Second Section
+526C - Portal Space 1: First section
+526D - Empyrean Acid Propylaeum : Lower & Upper
+526E - Empyrean Acid Propylaeum : Entrance
+526F - Empyrean Fire Propylaeum : Lower & Upper
+5270 - Empyrean Fire Propylaeum : Entrance
+5271 - Empyrean Ice Propylaeum : Lower & Upper
+5272 - Empyrean Ice Propylaeum : Entrance
+5273 - Empyrean Lightning Propylaeum : Lower & Upper
+5274 - Empyrean Lightning Propylaeum : Entrance
+5275 - Farmer's Basement
+5276 - Hall of Hollows
+536A - Hidden Dungeon
+536B - Convergent Median
+536C - Malignent Tabernacle
+536D - Nuhmudira's Dungeon
+536E - Venemous Nidus
+5456 - Grievver Caves
+5457 - Colossus Foundry
+5458 - Mammet Foundry
+5459 - Effigy Foundry
+545A - Mannikin Foundry
+545B - Arcanum Research Facility
+545C - Arcanum Storehouse : Entry
+545D - Callous Heart: High Grounds
+545E - Fathomless Chasm
+545F - Fathomless Chasm Devex
+5460 - Fathomless Chasm Descent
+5462 - Gelidite Library: Oubliette
+5463 - Gelidite Library: Labyrinth
+5464 - Gelidite Library: Entrance
+5465 - Sanctum Residential Halls
+5643 - Gromnie Clan Training Camp
+5644 - Mask Clan Training Camp
+5645 - Abandoned Armory
+5646 - An Archive
+5647 - Tower Base
+5649 - Dark Tree Crystal Mine
+564B - Crystal Mine Extreem
+564C - Crystal Mine High
+564D - Crystal Mine Mid
+564E - Crystal Mine Low
+564F - Crystal Mine New Isparians
+5650 - Victory Residential Halls
+5651 - Frest Greelving's Dungeon
+5653 - Citadel Library
+5654 - Gaerlan's Inner Sanctum
+5656 - Haven Residential Halls (Needs Fixed)
+565E - Oriel Residential Halls (Needs Fixed)
+565F - Elemental Sanctum
+5660 - Martine's Retreat
+5661 - Atrium Residential Halls (Needs Fixed)
+5743 - Frost Guardian Lair
+5744 - Proving Grounds Low
+5745 - Icy Demise
+5746 - Lightning Ziggurat
+5747 - Harbringer?
+5748 - Tusker Burrow
+5749 - Tusker Lodge
+574A - Warehouse
+574B - Warehouse (ransacked)
+574C - Warehouse Annex Mine
+574D - Deeper Catacombs (BDC)
+574E - Deeper Catacombs (OHN)
+5772 - Olthoi Brood Hive
+5773 - Olthoi Brood Hive
+5774 - Secret Putiputi Place : part 1
+5775 - Secret Putiputi Place : part 3
+5776 - Secret Putiputi Place : part 4
+5777 - Falcon Clan Training Camp
+5778 - Serpent Clan Training Ground
+5779 - Shreth Clan Training Camp
+577A - Reedshark Clan Training Camp
+5843 - Fire Guardian Lair 
+5844 - Proving Ground Mid
+5845 - Fire Aspect Dungeon
+5846 - Acid Ziggurat
+5849 - Tusker Assault
+584A - Tusker Shrine
+584B - Olthoi Brood Hive
+584C - Olthoi Brood Hive
+584D - THE BOG OF ETERNAL STENCH
+5943 - Acid Guardian Lair
+5944 - Proving Grounds High
+5945 - Acid Aspect Dungeon
+5946 - Fire Ziggurat
+5948 - Tusker Armory
+5949 - Tusker Lacuna
+594A - Chapel of Mowen
+594B - Aerbbax's Holding
+594C - Gerent's Compound
+594D - Ancient Temple
+5A43 - Lightning Guardian Lair
+5A44 - Proving Grounds Extreme
+5A45 - Electric Destruction
+5A46 - Frost Ziggurat
+5A48 - Tusker Barracks
+5A49 - Tusker Honeycombs
+5A4A - Tusker Pits
+5B43 - Olthoi Arcade (North)
+5B44 - Olthoi Arcade (Central)
+5B46 - Tusker Cave
+5B47 - Tusker Habitat
+5B48 - Tusker Holding
+5B49 - Plated Rifts
+5B4A - Tusker Quarters
+5C43 - Tusker Cavern
+5C44 - Tusker Encampments
+5C45 - Tusker Abode
+5C46 - Tusker Gauntlet
+5C47 - Tusker Grotto
+5C48 - Rampage Bluff
+5C49 - Tusker Retreat
+5C4A - Tusker Temple
+5C4E - Olthoi Brood Hive
+5D43 - Tusker Temple
+5D44 - Tusker Temple
+5D45 - Tusker Tunnels
+5D46 - Vengeance Caverns
+5D47 - Temple of Enlightment
+5D48 - Temple of Forgetfulness
+5D49 - Olthoi Arcade (South)
+5D4A - Olthoi Chasm
+5D4B - Shallow Olthoi Chasm
+5D4C - Deep Olthoi Chasm
+5D4D - Cavernous Olthoi Chasm
+5D4E - Abyssal Olthoi Chasm
+5E43 - Pit of Doom
+5E44 - Tusker Food Storage
+5E45 - Black Death Catacombs (BDC)
+5E46 - Catacombs of Opposition
+5E47 - Asheron's Sanctum
+5E48 - Olthoi Brood Hive
+5E49 - Olthoi Brood Hive
+5E4A - Olthoi Brood Hive
+5E4B - Olthoi Brood Hive
+5E4C - Bandit Hideout (Entrance)
+5E4D - Bandit Hideout (prison)
+5F43 - Legend Of The Tusker King
+5F44 - Throne Of The Tusker King
+5F45 - Fir Tree
+5F46 - Heart of Innocence
+5F47 - Elemental Caverns
+5F48 - Hidden Cavern
+6043 - Tusker Warrior's Lair
+6044 - Behind the Waterfall
+6045 - Caul Asylum
+6046 - Caul Athenaeum
+6047 - Caul Sanitorium
+6048 - Aerbax's Antechamber
+6049 - Renegade Garrison
+604A - Sclavus Temple
+6143 - Ulgrim's Basement
+6144 - Lower Corridor
+6145 - Matron Hive West
+6146 - Matron Hive East
+6147 - Lugian Citadel (Unknown)
+6148 - Desert Citadel
+6149 - Crystal Mine
+614A - Lair of the Ancient Queen
+6243 - Marketplace
+6343 - Knorr: Barracks
+6344 - Knorr Trials
+6345 - Subterannean Farm
+6346 - Matron Hive South
+6347 - Matron Hive North
+6348 - Caliginous Bethel
+6443 - Knorr: Research Chambers
+6444 - Seat of Knorr
+6445 - Knorr: Forge
+6446 - Tunnels to the Harbinger (Vincadi)
+6447 - Tunnels to the Harbinger (Issk)
+6448 - Mount Ingot
+6449 - Dragon's Power
+644A - Decrepit Tower
+6543 - Zyrca's PK Dungeon
+6544 - Zyrca's PK Dungeon #2
+7200 - Winthur Gate
+7300 - Larkspur Gardens
+7400 - Mellas Court
+7500 - Vesper Gate
+7600 - Gajin Dwellings
+7700 - Valorya Gate
+7800 - Heartland Yard
+7900 - Ivory Gate
+7A00 - Alphus Court
+7B00 - Hasina Gardens
+7C00 - Sorac Gate
+7D00 - Maru Veranda
+7E00 - Forsythian Gardens
+7F00 - Vindalan Dwellings
+8000 - Syrah Dwellings
+8100 - Allain Court
+8200 - White Lotus Gate
+8300 - Autumn Moon Gardens
+8400 - Trellyn Gardens
+8500 - Endara Gate
+8600 - Celcynd Grotto
+8700 - Trothyr Hollow
+8800 - Jojii Gardens Residential Halls
+8900 - Cedriac Court Residential Halls
+8A00 - Ben Ten Lodge
+8B00 - Dulok Court
+8C00 - Crescent Moon Veranda
+8D00 - Jade Gate
+8E00 - Ispar Yard
+8F00 - Xao Wu Gardens
+9000 - Accord Veranda Residential Halls
+9100 - Candeth Corner Residential Hall
+9200 - Celdiseth Court
+9300 - Hibiscus Gardens 
+9400 - Hibiscus Gardens
+9500 - Meditation Gardens
+9600 - Setera Gardens
+9700 - Spirit Gate
+9800 - Triumphal Gardens
+9900 - Wilamil Court
+End of Dungeon List (596 named dungeons)

@@ -1,0 +1,1876 @@
+1|Male_Avatar|0 
+2|Tusker_Guard|5 
+3|Olthoi_[old]|5 
+4|Armoredillo|5 
+6|Cow|5 
+46|Auroch|5 
+49|Banderling|5 
+52|Drudge_Skulker|5 
+54|Flying_Fish|5 
+55|Azure_Gromnie|5 
+56|Lugian|5 
+58|Mosswart_[old]|5 
+59|Red_Phyntos_Wasp|5 
+61|Black_Rat|5 
+64|Tumerok|5 
+65|Virindi_with_Sickles|5 
+70|Mite|5 
+75|Knath|5 
+77|Windmill_mechanism_w/_gears_[???]|0 
+78|Female_Avatar|5 
+79|Portal_Frame|0 
+84|Completely_Black_Avatar|0 
+85|Mud_Golem_[old]|5 
+98|Avatar_in_a_state_of_Pose_[???]|0 
+101|Short_Sword|0 
+124|Half_open_Chest|0 
+129|Cieling_Chandalier|0 
+157|Large_Swamp_Tree|0 
+158|Large_Leaved_Plant|0 
+256|Small_gold_Triangle_Object|0 
+257|Small_gold_Diamond_shaped_Object|0 
+258|Large_Ring_w/_gem_|0 
+259|Small_gold_Pentagon_shaped_Object|0 
+260|Empty_Cauldron|0 
+261|Unlit_Candelabra|0 
+262|Small_Candle|0 
+264|Fire_place_w/out_Hearth|0 
+265|Log|0 
+266|Stack_of_Logs|0 
+267|Genie_Lamp|0 
+268|Lantern|0 
+271|Large_Sceptre|0 
+272|Sceptre|0 
+273|Aluvian_Wand|0 
+274|Horn|0 
+277|Stone_Wall_fountain_w/_trough|0 
+278|Stone_trough_|0 
+279|Mana_Pool|0 
+280|Stone_Well|0 
+282|Short_Stone_Slab|0 
+283|Small_Wooden_square_with_metal_trim|0 
+286|Wooden_Crate|0 
+287|Work_Bench|0 
+288|Bench|0 
+289|Chair|0 
+290|Couch|0 
+291|Stool|0 
+298|Quarell|0 
+299|Club|0 
+300|Heavy_Xbow|0 
+301|Light_Xbow|0 
+302|Whittling_Knife|0 
+303|Dagger/Noodle_cutter|0 
+314|Mace|0 
+315|Dabus|0 
+316|Morning_Star|0 
+317|Staff|0 
+318|Shamshir|0 
+319|Takuba|0 
+331|Takuba|0 
+333|Yaoji|0 
+334|Warhammer|0 
+335|Double_sided_War_Hammer|0 
+364|Wooden_Well|0 
+365|Bed|0 
+366|Large_Hammer|0 
+367|Leather_Cantine|0 
+378|Spiked_Collar|0 
+379|Unlit_Torch|0 
+380|Wand|0 
+381|PickAxe|0 
+382|Small_Bell|0 
+394|Scroll|0 
+395|Avatar_in_state_of_Pose|0 
+396|Unlit_Lantern|0 
+397|Small_rectangular_box|0 
+398|Wall_paintings|0 
+399|Wall_paintings|0 
+526|Rectangular_Wooden_Post|0 
+543|Small_rectangular_box|0 
+556|Small_Recangular_Wooden_Post|0 
+557|Wooden_Post_w/fence|0 
+571|Small_ledge_with_small_flame|0 
+587|Broken_Pyramid_Pillar|0 
+588|Horizontal_Pyramid_Pillar_w/moss|0 
+590|Magical_Staff|0 
+591|Partly_Open_Doors_[dungeon_doors]|0 
+602|Tan_floor_tile|0 
+619|Turbine_box_w/arrow|0 
+621|Bright_Mounted_Wall_Torch|0 
+622|Bright_Mounted_Wall_Torch|0 
+635|Fountain|0 
+636|Left_half_of_dungeon_door|0 
+639|Fountain|0 
+641|Half_Open_Barred-Doors|0 
+643|Lantern|0 
+644|Lantern|0 
+645|Cauldron_with_Orange_Fire|0 
+646|Cauldron_with_Orange_Fire|0 
+647|Cauldron_with_Orange_Fire|0 
+648|Boots|0 
+649|Sandals|0 
+651|Shirt|0 
+653|Olthoi_Tunnel_Fungus_Wall|0 
+655|Olthoi_Tunnel_Fungus_eruption|0 
+656|Sign_w/Notes_&_thumbtacks|0 
+657|Wooden_Stairs|0 
+658|Large_Wooden_Cyalinder|0 
+659|White_Vase|0 
+660|Narrow_White_Vase|0 
+661|Wide_Bottom-d_White_Vase|0 
+723|Large_Pine_Tree|0 
+727|Large_Tree_w/Brown_Leaves|0 
+728|Large_Pine_Tree|0 
+729|Large_Pine_Tree|0 
+730|Large_Pine_Tree|0 
+731|Large_Pine_Tree|0 
+732|Large_Tree_w/Brown_Leaves|0 
+750|Lifestone|0 
+751|Short_Wooden_Steps|0 
+752|Wooden_Stairs|0 
+753|Green_Tree_w/leaves|0 
+754|Green_Tree_w/leaves|0 
+755|Green_Tree_w/leaves|0 
+756|Green_Tree_w/leaves|0 
+757|Green_Tree_w/leaves|0 
+758|Green_Tree_w/leaves|0 
+759|Wooden_Stairs|0 
+760|Wooden_Stairs|0 
+761|Cake|0 
+762|Healing_Kit|0 
+763|Wooden_Brown_Table|0 
+764|Wooden_Brown_Table|0 
+765|Brown_Podium|0 
+766|Wooden_Stairs|0 
+767|Monouga|5 
+768|Wooden_Stairs|0 
+769|Wooden_Stairs|0 
+771|Wooden_Stairs|0 
+773|Skeleton's_Skull|0 
+774|Portal_Space_Tube|0 
+775|Blue_Talisman|0 
+776|Blue_Powder_Container|0 
+777|Blue_Potion|0 
+778|Gold_Colored_Gem|0 
+779|Lead_Scarab|0 
+780|Two_floor_Staircase|0 
+784|Sho_Door|0 
+785|Dungeon_Door|0 
+786|Sho_Door|0 
+787|Sho_Door|0 
+788|Auroch|5 
+790|Wooden_Stairs|0 
+791|Wooden_Stairs|0 
+792|Wooden_Stairs|0 
+796|Small_ledge_with_small_flame|0 
+797|Stone_with_Runes/Inscription|0 
+799|Floor_Switch|0 
+802|Small_Tree__with_Green_Leaves|0 
+805|Tree_with_Thick_Green_Leaves|0 
+811|Small_Cactus|0 
+812|Tall_Cactus|0 
+814|Small_Metalic_lantern|0 
+816|Old_Heume|0 
+818|Wooden_Stairs|0 
+819|Wooden_Stairs|0 
+820|Small_rectangular_box|0 
+822|Small_rectangular_box|0 
+823|Small_rectangular_box|0 
+824|Small_rectangular_box|0 
+825|Small_rectangular_box|0 
+826|Small_rectangular_box|0 
+828|Gharu_Blacksmith_Forge|0 
+829|Two_wooden_stairs_w/_platform|0 
+830|Two_wooden_stairs|0 
+831|to_more_stairs_|0 
+832|to_more_stairs_|0 
+833|to_more_stairs_|0 
+836|Hearth_with_Fireplace|0 
+837|Spit_with_hanging_pot|0 
+838|Large_Wall_torch|0 
+839|Cieling_Chandalier|0 
+840|Cieling_Chandalier|0 
+841|Cieling_Chandalier|0 
+842|Cieling_Chandalier|0 
+843|Large_wall_Ledge_with_Large_Flame|0 
+844|Large_wall_Ledge_with_Large_Flame|0 
+845|Small_Fireplace|0 
+846|Alter_of_Asheron_[NPK]|0 
+847|Hanging_Corpse|0 
+848|Part_of_Chandalier|0 
+849|Pot_on_Hot_Coals|0 
+852|Hot_Coals|0 
+853|Chandalier|0 
+854|Chandalier|0 
+855|Chandalier|0 
+856|Chandalier|0 
+857|Alter_of_Bael'Zharon_[PK]|0 
+859|Large_Gharu_Basket|0 
+862|Medium_Gharu_Vase_w/_handles|0 
+863|Floating_Rocks_with_3_bushes|0 
+872|Gharu_Table|0 
+873|Gharu_Stool|0 
+874|Assorted_Green_Gems...|0 
+875|Assorted_Green_Gems...|0 
+876|Assorted_Green_Gems...|0 
+877|Assorted_Green_Gems...|0 
+878|Gharu_Barrel|0 
+879|Gharu_Arched_Doorway|0 
+880|Gharu_Arched_Doorway|0 
+881|Gharu_Arched_Doorway|0 
+882|Vase_w/_flame_attached_to_board|0 
+884|Stone_Slab|0 
+885|Stone_Slab|0 
+886|Stone_Slab|0 
+887|-hanging_from_wall|0 
+888|-hanging_from_wall|0 
+889|Corpse|0 
+890|Decaying_Corpse_[face_down]|0 
+892|Decaying_Corpse_[slightly_different]|0 
+894|Closed_Gharu_Door|0 
+898|Triangular_Bridge_Reinforcement|0 
+900|Gharu_Building_Structure|0 
+906|Fountain_Bubbles|0 
+907|Long_Stairway|0 
+908|Short_Stairway|0 
+917|Empyrean_Stone_Structure|0 
+918|Wooden_Ladder|0 
+919|Empyrean_Pillar|0 
+920|Tall_Empyrean_Pillar|0 
+923|Empyrean_Pillar_[Black_Hill_Base]|0 
+924|Empyrean_Pillar_w/flame|0 
+925|Empyrean_Pillar_w/flame_and_base|0 
+929|Monstorous_Pine_Tree|0 
+930|Christmas_Tree|0 
+931|Christmas_Tree|0 
+932|Large_Pine_Tree_w/_snow|0 
+933|Wooden/metal_arch_reinforcement|0 
+935|Monstorous_Pine_Tree_w/Snow|0 
+945|Large_Stone_Face|0 
+946|Large_Stone_Face|0 
+947|Wooden_Fence|0 
+948|Wooden_Fence_Post|0 
+949|Wooden_Fence_w/post|0 
+950|Lifestone_Center|0 
+951|Lifestone_Prong|0 
+952|Lifestone_Prong|0 
+953|Lifestone_Prong|0 
+954|Short_Table|0 
+959|Obsidian_Pillar|0 
+960|Obsidian_Pillar|0 
+961|Obsidian_Pillar|0 
+964|Stone_Stairway|0 
+965|Stream_of_White_Light|0 
+966|Rising_globs_of_Olthoi_acid|0 
+967|Stone_Pillar|0 
+968|Stone_Pillar|0 
+969|Stone_Pillar|0 
+970|Stone_Pillar|0 
+971|Rock_with_steam_coming_from_under_it|0 
+972|Heap_of_Bones|0 
+973|Heap_of_Bones|0 
+974|Fire_Arrow|0 
+975|Flaming_Staff|0 
+976|Yaoji|0 
+977|Lilly_Pad|0 
+978|Lilly_Pad|0 
+979|Swamp_Grass|0 
+980|Tibri's_Fire_Spear|0 
+981|Sword_with_sparkles|0 
+982|Battle_Axe|0 
+983|Lightning_Hammer|0 
+984|Fiery_Shield|0 
+986|Green_Wall|0 
+988|Green_Wall|0 
+990|Tree_Stump|0 
+991|Tree_Stump|0 
+992|Small_Grey_Rock|0 
+994|Small_Orange_Rock|0 
+995|Small_Black_Rock|0 
+996|Waterfall|0 
+997|Spinning_Windmill|0 
+998|Spinning_Windmill_Shaft|0 
+1002|Tall_Tree_with_leaves_at_top|0 
+1003|Tall_Tree_with_leaves_at_top|0 
+1004|Big_Tower__Stair_Case|0 
+1005|Tall_Tree_with_leaves_at_top|0 
+1006|Tall_Tree_with_leaves_at_top|0 
+1007|Tall_Tree_with_leaves_at_top|0 
+1008|Lightning_Ray|0 
+1010|Big_Tower_Stair_Case|0 
+1011|Force_Bolt|0 
+1012|Frost_Bolt|0 
+1013|Blue_Taper|0 
+1014|Acid_Stream|0 
+1015|Swamp_Grass|0 
+1016|Yellow_Flower|0 
+1017|Ivy_Flower|0 
+1018|Shock_Wave|0 
+1019|Wooden_Ladder|0 
+1020|Whirling_Blade|0 
+1021|Cloud_of_White_Light|0 
+1023|Faint_Cloud_of_White_Light|0 
+1025|Cloud_of_White_Light|0 
+1026|Cloud_of_White_Light|0 
+1028|Faint_Cloud_of_White_Light|0 
+1030|Light_Snow|0 
+1031|Light_Snow|0 
+1032|Skeleton_Captain/Relic_Bone|5 
+1033|Skeleton_Captain/Relic_Bone|5 
+1034|Avatar_w/_Zombie_Head|0 
+1035|Half_of_a_Festival_Stone_Pillar|0 
+1036|Tusker_Slave|5 
+1039|Large_Mound_of_Hay|0 
+1040|Stone_Pillar|0 
+1041|Stone_Pillar|0 
+1042|Stone_Pillar|0 
+1043|Stone_Pillar|0 
+1044|Stone_Pillar|0 
+1045|Stone_Pillar|0 
+1046|Stone_Pillar|0 
+1047|Stone_Slab_with_Symbols|0 
+1048|Tiny_Stone_Archway|0 
+1049|Olthoi_Noble_with_Large_Tail|5 
+1050|Small_Step_Ladder|0 
+1051|Olthoi_Noble_with_no_tail_[old]|5 
+1052|Small_Step_Ladder_w/Side_part|0 
+1054|Olthoi_Noble_with_tail_[old]|5 
+1055|Olthoi_Noble_with_no_tail_[different]|5 
+1056|Olthoi_Noble_with_no_tail_[different]|5 
+1057|Tan_Stone_structure|0 
+1058|Partly_Open_Door|0 
+1067|Stone_Bael'Zharon_Statue|0 
+1083|Chimney_Smoke|0 
+1084|Stone_Cauldron_w/pattern|0 
+1087|Blue_Virindi_Crystal_spike|0 
+1088|Blue_Virindi_Crystal_spike|0 
+1089|Blue_Virindi_Crystal_spike|0 
+1090|Blue_Virindi_Crystal_spike|0 
+1091|Blue_Virindi_Crystal_spike|0 
+1104|Clay_Tile |0 
+1105|Pole_with_symbol|0 
+1106|Black/purple_olthoi_Cauldron|0 
+1127|Fountain|0 
+1129|Floor_Sewer_Vent|0 
+1130|Wall_Sewer_Vent_w/gas_[flat]|0 
+1131|Wall_Sewer_Vent_w/gas_[long]|0 
+1145|Connected_stalagtite/stalagmite_[cave]|0 
+1146|Stone_Cavern_Tunnel_Wall|0 
+1147|Black_Rabbit|5 
+1157|Flames|0 
+1158|Mattekar|5 
+1161|Jeweler_Shop_Sign|0 
+1162|Sign_w/_Bird|0 
+1168|Floating_Butterfly|0 
+1169|Floating_Butterfly|0 
+1171|Floating_Butterfly|0 
+1172|Floating_Butterfly|0 
+1174|Red_particles_falling_from_sky|0 
+1175|Yellow_particles_falling_from_sky|0 
+1176|Sclavus|5 
+1178|Zefir|5 
+1180|Wierd_Catapiller_thing_[???]|5 
+1194|Green_Knath|5 
+1195|Blue_Knath|5 
+1196|Grey_Knath|5 
+1197|Yellow_Knath|5 
+1198|White_Knath|5 
+1199|Red_Knath|5 
+1200|Water_Strider|0 
+1201|Tall_Palm_Tree|0 
+1202|Small_Palm_Tree|0 
+1205|Wall_Switch|0 
+1206|Metal_Prong_w/stand_holding_blue_gem|0 
+1207|Mana_Stone|0 
+1208|Mana_Stone|0 
+1209|Mana_Stone|0 
+1211|Baby_Palm_Tree|0 
+1212|Baby_Palm_Tree|0 
+1213|Sentinel_Hat|0 
+1214|Tall_Leaved_Tree|0 
+1215|Two_Boulders|0 
+1217|Huge_Purple_Flower|0 
+1218|Huge_Pink_Flower|0 
+1219|Treeman|5 
+1221|Dungeon_Wall|0 
+1222|Aegis_w/_no_ring|0 
+1223|Gnarly_Tree_w/_no_leaves|0 
+1224|Wooden_Stair_Case|0 
+1225|Wooden_Stair_Case|0 
+1226|Wooden_Stair_Case|0 
+1236|Larvae_Fish_[???]|5 
+1238|Slithis_Tentacle|5 
+1245|Pyreal_Ingot|0 
+1246|Small_Wooden__Ladder|0 
+1247|Small_Wooden__Ladder|0 
+1248|Dungeon_Wall|0 
+1249|Mossy_Dungeon_Wall|0 
+1250|Brown_Dungeon_Wall|0 
+1251|Purple_Olthoi_Dungeon_Wall|0 
+1252|Brown_Mossy_Wall|0 
+1254|Frost_Battle_Axe|0 
+1255|Acid_Battle_Axe|0 
+1256|Flaming_Batle_Axe|0 
+1257|Frost_Arrow|0 
+1258|Acid_Battle_Axe|0 
+1259|Flaming_Battle_Axe|0 
+1260|Frost_Battle_Axe|0 
+1261|Flaming_Quarrel|0 
+1262|Frost_Quarrel|0 
+1263|Lightning_Quarrel|0 
+1264|Acid_Quarrel|0 
+1265|Lightning_Throwing_Knife|0 
+1266|Flaming_Throwing_Club|0 
+1267|Flaming_Throwing_Dart|0 
+1268|Acid_Throwing_Dart|0 
+1269|Lightning_Broad_Sword|0 
+1270|Acid_Throwing_Axe|0 
+1271|Lightning_Throwing_Axe|0 
+1272|Lightning_Battle_Axe|0 
+1273|Frost_Throwing_Axe|0 
+1274|Acid_Dagger|0 
+1275|Lightning_Dagger|0 
+1276|Flaming_Dagger|0 
+1277|Lightning_Arrow|0 
+1278|Acid_Khanjar|0 
+1279|Lightning_Battle_Axe|0 
+1280|Frost_Khanjar|0 
+1281|Acid_Throwing_Knife|0 
+1282|Flaming_Throwing_Axe|0 
+1283|Lightning_Throwing_Club|0 
+1284|Flaming_Dagger|0 
+1285|Flaming_Khanjar|0 
+1286|Frost_Throwing_Knife|0 
+1287|Lightning_Throwing_Dart|0 
+1288|Acid_Javalin|0 
+1289|Frost_Dagger|0 
+1290|Frost_Club|0 
+1291|Lightning_Javalin|0 
+1292|Frost_Dart|0 
+1293|Fire_Javalin|0 
+1294|Acid_Jitte|0 
+1295|Acid_Club|0 
+1296|Lightning_Khanjar|0 
+1297|Acid_Kasarullah|0 
+1298|Acid_Yaoji|0 
+1299|Lightning_Yaoji|0 
+1300|Flaming_Yaoji|0 
+1301|Flaming_Jitte|0 
+1302|Frost_Knife|0 
+1303|Flaming_Kasarullah|0 
+1304|Flaming_Dabus|0 
+1305|Frost_Javalin|0 
+1306|Acid_Knife|0 
+1307|Acid_Katar|0 
+1308|Flaming_Katar|0 
+1309|Frost_Dabus|0 
+1310|Acid_Dabus|0 
+1311|Frost_Knife|0 
+1312|Lightning_Mace|0 
+1313|Lightning_Katar|0 
+1314|Acid_Knife|0 
+1315|Lightning_Morningstar|0 
+1316|Lightning_Knife|0 
+1317|Lightning_Kasarullah|0 
+1318|Frost_Dabus|0 
+1319|Flaming_Knife|0 
+1320|Lightning_Dabus|0 
+1321|Lightning_Jitte|0 
+1322|Frost_Sword|0 
+1323|Flaming_Morningstar|0 
+1324|Flaming_Mace|0 
+1325|Acid_Morningstar|0 
+1326|Frost_Kasarullah|0 
+1327|Acid_Mace|0 
+1328|Frost_Katar|0 
+1329|Frost_Morningstar|0 
+1330|Frost_Jitte|0 
+1331|Frost_Staff|0 
+1332|Lightning_Staff|0 
+1333|Frost_Shaoken|0 
+1334|Flaming_Shaokens|0 
+1335|Acid_Shamshir|0 
+1336|Acid_Takuba|0 
+1337|Flaming_Khanjar|0 
+1338|Acid_Staff|0 
+1339|Flaming_Shamshir|0 
+1340|Acid_Shaoken|0 
+1341|Acid_Sifili|0 
+1342|Frost_Shamshir|0 
+1343|Acid_Takuba|0 
+1344|Flaming_Sifili|0 
+1345|Flaming_Takuba|0 
+1346|Lightning_Takuba|0 
+1347|Frost_Sifili|0 
+1348|Acid_Javalin|0 
+1349|Lightning_Sifili|0 
+1350|Lightning_Shamshir|0 
+1351|Bandit_Hilt?|0 
+1352|Flaming_Long_Sword|0 
+1353|Bandit_Hilt?|0 
+1354|Flaming_Sword|0 
+1355|Acid_Arrow|0 
+1356|Frost_Sword|0 
+1357|Lightning_Javalin|0 
+1358|Acid_Swords|0 
+1359|Acid_Swords|0 
+1360|Frost_Short_Sword|0 
+1361|Acid_Short_Sword|0 
+1362|Frost_Long_Sword|0 
+1363|Lightning_Short_Sword|0 
+1364|Frost_Short_Sword|0 
+1365|Flaming_Short_Sword|0 
+1366|Lightning_Knife|0 
+1367|Lightning_Shaoken|0 
+1368|Bandit_Hilt?|0 
+1369|Acid_Hand_Axe|0 
+1370|Flaming_Sword|0 
+1371|Flaming_Takuba|0 
+1372|Acid_Yaoji|0 
+1373|Lightning_Handaxe|0 
+1374|Lightning_Shortsword|0 
+1375|Lightning_Sword|0 
+1377|Frost_Hand_Axe|0 
+1378|Frost_Yaoji|0 
+1379|Flaming_Hand_Axe|0 
+1380|Lightning_Yaoji|0 
+1381|Acid_Warhammer|0 
+1382|Acid_Long_Sword|0 
+1383|Flaming_War_Hammer|0 
+1384|Flaming_Yari|0 
+1385|Flaming_Warhammer|0 
+1386|Flaming_Yaoji|0 
+1387|Long_Sword|0 
+1388|Frost_Warhammer|0 
+1389|Frost_Takuba|0 
+1390|Frost_Javalin|0 
+1391|Frost_Yari|0 
+1392|Lightning_Yari|0 
+1393|Acid_Yari|0 
+1394|Frost_Warhammer|0 
+1395|Acid_Warhammer|0 
+1396|Acid_Takuba|0 
+1397|Lightning_Warhammer|0 
+1398|Blue_Aegis_w/_black_swirl_ring|0 
+1399|Blue_Aeigis_w/_blue_ring|0 
+1400|Blue_Aegis_w/green_ring|0 
+1401|Blue_Aegis_w/orange_ring|0 
+1402|Blue_Aegis_w/_purple_ring|0 
+1403|Blue_Aegis_w/_red_ring|0 
+1404|Blue_Aegis_w/_white_sparkle_ring|0 
+1411|Tall_Weeds|0 
+1412|Red_Swamp_Eruption|0 
+1413|Green_Swamp_Eruption|0 
+1414|Orange_Swamp_Eruption|0 
+1422|Desert_sand_storm|0 
+1423|Blue_Aegis_w/blue_ring|0 
+1425|Purple_Virindi_Cloud_[chakron]|0 
+1427|Tall_Purple_Virindi_Cloud_[chakron]|0 
+1431|Small_Boulder|0 
+1432|Arrow_Shaft|0 
+1433|Blue_Wisp|5 
+1434|White/green_Wisp|5 
+1435|Pink_Wisp|5 
+1436|Green_Wisp|5 
+1437|Red_Wisp|5 
+1438|Tall_Wooden_Pole|0 
+1439|Taller_Wooden_Pole|0 
+1536|Food_[???]|0 
+1537|Baking_Pan|0 
+1538|Green_Jar|0 
+1539|Carving_Knife?|0 
+1540|Cooking_Pot|0 
+1541|Filet_of_Fish|0 
+1542|Noodles|0 
+1543|Fried_Egg|0 
+1544|Frying_Pan|0 
+1545|Jar_of_Honey|0 
+1546|Meatpie|0 
+1547|Pizza|0 
+1548|Skewer|0 
+1549|Beef_Kabobs|0 
+1550|Stuffed_Grape_Leaves|0 
+1552|Pointed_Sign_pointing_left|0 
+1553|Metal_Cross_with_cloth|0 
+1554|Pointed_Sign_pointing_left|0 
+1556|Acid_Nekode|0 
+1557|Flaming_Nekode|0 
+1558|Frost_Nekode|0 
+1559|Lightning_Nekode|0 
+1560|Acid_Cestus|0 
+1561|Flaming_Cestus|0 
+1562|Frost_Cestus|0 
+1563|Lightning_Cestus|0 
+1564|Nekode|0 
+1565|Cestus|0 
+1566|Table_with_2_broken_legs|0 
+1567|Sho_Wand|0 
+1568|Gharu_Wand|0 
+1569|Meeting_Hall_Stairs_[left]|0 
+1570|Meeting_Hall_Stairs_[right]|0 
+1571|Meeting_Hall_Stairs_[middle]|0 
+1572|Small_Torch_Light|0 
+1573|Cauldron_with_orange_fire|0 
+1574|Cauldron_with_blue_fire|0 
+1575|Cauldron_with_orange_fire|0 
+1576|Cauldron_with_blue_fire|0 
+1577|Cauldron_with_green_fire|0 
+1578|Cauldron_with_Green_fire|0 
+1579|Large_tree_with_Leaves|0 
+1580|Large_tree_with_Leaves|0 
+1581|Advocate_Outpost_Help_Stone|0 
+1582|Advocate_Outpost_Help_Stone_w/stand|0 
+1583|Blue_Arrows_[tutorial_dungeon]|0 
+1584|Blue_Arrows_[tutorial_dungeon]|0 
+1585|Blue_Arrows_[tutorial_dungeon]|0 
+1586|Green_Arrows_[tutorial_dungeon]|0 
+1587|Green_Arrows_[tutorial_dungeon]|0 
+1588|Green_Arrows_[tutorial_dungeon]|0 
+1589|Red_Arrows_[tutorial_dungeon]|0 
+1590|Red_Arrows_[tutorial_dungeon]|0 
+1591|Red_Arrows_[tutorial_dungeon]|0 
+1592|Apple|0 
+1593|Apple|0 
+1595|Floating_Boulder_with_Grass|0 
+1596|Thick_Vertical_Gate|0 
+1597|Thin_Vertical_Gate|0 
+1598|Arrow_sticking_up_from_ground|0 
+1599|Chicken|0 
+1600|Chocolate_Chip_Cookie|0 
+1601|Pink_Jar|0 
+1602|Festival_Stone|0 
+1659|Blue_Aura_Lighting_Effect|0 
+1660|Green_Aura_Lighting_Effect|0 
+1661|Yellow_Aura_Lighting_Effect|0 
+1662|Red_Aura_Lighting_Effect|0 
+1663|Lava_Tunnel_Wall|0 
+1664|Light_Blue_Steam|0 
+1665|Light_Blue_Steam|0 
+1666|Light_Green_Steam|0 
+1667|Light_Green_Steam|0 
+1668|Light_White_Steam|0 
+1669|Light_White_Steam|0 
+1670|Light_Red_Steam|0 
+1671|Light_Red_Steam|0 
+1672|Light_White_Steam|0 
+1673|Light_Yellow_Steam|0 
+1674|Light_Yellow_Steam|0 
+1675|Large_and_small_Rock|0 
+1676|Grey_pile_of_Rocks|0 
+1677|Broken_Blue_Taper|0 
+1679|Magma_Floor_tile|0 
+1680|Purple_Cloud_Lighting_Effect|0 
+1681|Yellow_Cloud_Lighting_Effect|0 
+1682|Blue_Cloud_Lighting_Effect|0 
+1683|Green_Cloud_Lighting_Effect|0 
+1684|Yellow_Floor_Lighting_Effect|0 
+1685|Pink_Floor_Lighting_Effect|0 
+1686|Red_Floor_Lighting_Effect|0 
+1687|Pink_Spot_Light|0 
+1688|Yellow_Spot_Light|0 
+1689|Small_Pink_Spot_Light|0 
+1690|Medium_Pink_Spot_Light|0 
+1691|Medium_Pink_Spot_Light|0 
+1692|Small_Yellow_Spot_Light|0 
+1693|Medium_Yellow_Spot_Light|0 
+1694|Medium_Yellow_Spot_Light|0 
+1695|Red_Spot_Light|0 
+1792|Nexus_Crystal|5 
+1793|Cabbage|0 
+1794|Dual_Fragment|5 
+1795|Snow|0 
+1797|Sho_Festival_Light|0 
+1798|Aluvian_Festival_Light|0 
+1799|Gharu_Festival_Light|0 
+1800|Small_red_rock|0 
+1801|Side_of_Beef|0 
+1802|Hot_Pepper|0 
+1803|Fez|0 
+1804|Kasa|0 
+1805|Hood_[with_no_robe]|0 
+1807|HUGE_White_lighting_effect|0 
+1808|Full_Wheelbarrow|0 
+1809|Fragment|5 
+1811|Broken_Fragment|5 
+1812|HUGE_White_lighting_effect|0 
+1814|UMBRIS_Avatar_[Male]|0 
+1815|Black_SpotLight|0 
+1816|Black_SpotLight|0 
+1817|Short_Gharu_Post_w/_blue_lantern|0 
+1818|Short_Sho_Post_w/_yellow_lantern|0 
+1819|UMBRIS_Avatar_[Female]|0 
+1820|Slanted_Stone_Slab|0 
+1821|Tiny_Stone_Arch|0 
+1822|Flat_Stone_Slab|0 
+1823|Slanted_Uprooted_Tree|0 
+1824|Atlan_Axe|0 
+1825|Atlan_Dagger|0 
+1826|Atlan_Claw|0 
+1827|Atlan_Mace|0 
+1828|Atlan_Spear|0 
+1829|Atlan_Staff|0 
+1830|Atlan_Sword|0 
+1831|Smoking_Arrow|0 
+1835|Smoking_Quarrel|0 
+1845|Hamuds_Katar|0 
+1870|Atlan_Axe_of_Black_Fire|0 
+1871|Frost_Atlan_Axe_[minor]|0 
+1872|Acid_Atlan_Axe_[minor]|0 
+1874|Lightning_Atlan_Axe_[minor]|0 
+1875|Flaming_Atlan_Axe_[minor]|0 
+1876|Yellow_Atlan_Axe_[???]|0 
+1877|Atlan_Dagger_of_Black_Fire|0 
+1878|Frost_Atlan_Dagger_[minor]|0 
+1879|Acid_Atlan_Dagger_[minor]|0 
+1881|Lightning_Atlan_Dagger_[minor]|0 
+1882|Flaming_Atlan_Dagger_[minor]|0 
+1883|Yellow_Atlan_Dagger_[???]|0 
+1884|Atlan_Claw_of_Black_Fire|0 
+1885|Frost_Atlan_Claw_[minor]|0 
+1886|Acid_Atlan_Claw_[minor]|0 
+1888|Lightning_Atlan_Claw_[minor]|0 
+1890|Yellow_Atlan_Claw_[???]|0 
+1891|Atlan_Mace_of_Black_Fire|0 
+1892|Frost_Atlan_Mace_[minor]|0 
+1893|Acid_Atlan_Mace_[minor]|0 
+1895|Lightning_Atlan_Mace_[minor]|0 
+1896|Flaming_Atlan_Mace_[minor]|0 
+1897|Flaming_Atlan_Mace_[minor]|0 
+1898|Atlan_Spear_of_Black_Fire|0 
+1899|Frost_Atlan_Spear_[minor]|0 
+1900|Acid_Atlan_Spear_[minor]|0 
+1902|Lightning_Atlan_Spear_[minor]|0 
+1903|Flaming_Atlan_Spear_[minor]|0 
+1904|Yellow_Atlan_Spear_[???]|0 
+1905|Atlan_Staff_of_Black_Fire|0 
+1906|Frost_Atlan_Staff_[minor]|0 
+1907|Acid_Atlan_Staff_[minor]|0 
+1909|Lightning_Atlan_Staff_[minor]|0 
+1910|Flaming_Atlan_Staff_[minor]|0 
+1911|Yellow_Atlan_Staff_[???]|0 
+1912|Atlan_Sword_of_Black_Fire|0 
+1913|Frost_Atlan_Sword_[minor]|0 
+1914|Acid_Atlan_Sword_[minor]|0 
+1916|Lightning_Atlan_Sword_[minor]|0 
+1917|Flaming_Atlan_Sword_[minor]|0 
+1918|Yellow_Atlan_Sword_[???]|0 
+1919|Acid_Atlan_Axe_[Major]|0 
+1920|Lightning_Atlan_Axe_[Major]|0 
+1921|Flaming_Atlan_Axe_[Major]|0 
+1922|Frost_Atlan_Axe_[Major]|0 
+1923|Acid_Atlan_Dagger_[Major]|0 
+1924|Lightning_Atlan_Dagger_[Major]|0 
+1925|Flaming_Atlan_Dagger_[Major]|0 
+1926|Frost_Atlan_Dagger_[Major]|0 
+1927|Acid_Atlan_Claw_[Major]|0 
+1928|Lighting_Atlan_Claw_[Major]|0 
+1929|Flaming_Atlan_Claw_[Major]|0 
+1930|Frost_Atlan_Claw_[Major]|0 
+1931|Acid_Atlan_Mace_[Major]|0 
+1932|Lightning_Atlan_Mace_[Major]|0 
+1933|Flaming_Atlan_Mace_[Major]|0 
+1934|Frost_Atlan_Mace_[Major]|0 
+1935|Acid_Atlan_Spear_[Major]|0 
+1936|Lightning_Atlan_Spear_[Major]|0 
+1937|Flaming_Atlan_Spear_[Major]|0 
+1938|Frost_Atlan_Spear_[Major]|0 
+1939|Acid_Atlan_Staff_[Major]|0 
+1940|Lightning_Atlan_Staff_[Major]|0 
+1941|Flaming_Atlan_Staff_[Major]|0 
+1942|Frost_Atlan_Staff_[Major]|0 
+1943|Acid_Atlan_Sword_[Major]|0 
+1944|Lightning_Atlan_Sword_[Major]|0 
+1945|Flaming_Atlan_Sword_[Major]|0 
+1946|Frost_Atlan_Sword_[Major]|0 
+1947|Frost_Atlan_Axe_[Major?]|0 
+1948|Frost_Atlan_Dagger_[Major?]|0 
+1949|Frost_Atlan_Claw_[Major?]|0 
+1950|Frost_Atlan_Mace_[Major?]|0 
+1951|Frost_Atlan_Spear_[Major?]|0 
+1952|Frost_Atlan_Staff_[Major?]|0 
+1953|Frost_Atlan_Sword_[Major?]|0 
+1955|Tall_Purple_Flower|0 
+1956|Tall_Purple_Flower|0 
+1957|Short_Orange_Flower|0 
+1958|Short_Yellow_Flower|0 
+1959|Acid_Pit_Tile|0 
+1974|Pyreal_Mote|0 
+1975|Blue/white_Shard|0 
+1976|Atlan_tool_[???]|0 
+1977|Pile_of_Long_Sticks|0 
+1979|Red_Pennant_Flag_[PK_Arena]|0 
+1980|Mossy_Aerlinthe_Tree|0 
+1982|Palm_Tree|0 
+1983|Palm_Tree|0 
+1987|Red_Bael'zharon_Alter|0 
+1988|Swarm_of_Flies|0 
+1989|Pulsing_Lightning_Pillar|0 
+1991|Spinning_Windmill_piece|0 
+1992|Rotating_Windmill_Rod|0 
+1994|Granite_Golem|5 
+1995|Magma_Golem|5 
+1996|Wood_Golem|5 
+2004|VERY_tall_tree|0 
+2006|Stone_slab_w/_runes|0 
+2007|Ice_Golem|5 
+2008|Obsidian_Golem|5 
+2009|Big_Tree|0 
+2010|Tall_Tree|0 
+2011|Palm_tree_with_Big_leaves|0 
+2013|Drudge|5 
+2014|Horizontal_Purple_Portal|0 
+2022|Water_Golem|5 
+2024|Dark_Shadowy_Cloud|0 
+2025|Dark_Shadowy_Cloud|0 
+2026|Dark_Shadowy_Cloud|0 
+2027|Dark_Shadowy_Cloud|0 
+2028|Dark_Shadowy_Cloud|0 
+2029|Dark_Shadowy_Cloud|0 
+2032|Bobbing_Shadow_Mass|0 
+2106|Eerie_Warble_noise|0 
+2107|Curled_Orange_Stone|0 
+2108|Curled_Orange_Stone|0 
+2109|Curled_Orange_Stone|0 
+2112|Lava_Center_[Behemoth's_Lair?]|0 
+2113|Ice_Sculpture|0 
+2114|Ice_Sculpture|0 
+2115|Ice_Sculpture|0 
+2116|Ice_Sculpture|0 
+2119|Tall_Dead_Tree_w/_no_leaves|0 
+2120|Dead_Banderling|0 
+2121|Sifili_of_Crimson_Stars|0 
+2122|Haft_[SoCs_perhaps?]|0 
+2123|Haft_[SoCs_perhaps?]|0 
+2125|Female_Avatar|0 
+2126|Male_Avatar|0 
+2129|Snowy_Rock|0 
+2131|Female_Avatar_[with_no_legs]|0 
+2132|Male_Avatar_[with_no_legs]|0 
+2137|Waterfall|0 
+2138|Waterfall|0 
+2140|Dagger_of_Tikola|0 
+2141|Stone_Pillar_[festival_stone?]|0 
+2142|Half_of_Pillar|0 
+2143|Stone_Stepladder_w/side_support|0 
+2144|Small_Stone_Structure|0 
+2145|Stone_Pyramid_Pillar|0 
+2146|Stone_Pillar|0 
+2147|Broken_Stone_Pillar|0 
+2148|Broken_Stone_Pillar|0 
+2149|Broken_Stone_Pillar|0 
+2150|Corpse_holding_Head_in_hands|0 
+2151|Two_Corpses_in_Embrace|0 
+2152|Corpse|0 
+2155|Swamp_bubbles|0 
+2156|Rapier|0 
+2157|Purple_Olthoi_Sword|0 
+2158|Ice_Glacier|0 
+2161|Undead_Thighbone|0 
+2162|Horn_[???]|0 
+2163|Composite_Xbow_part|0 
+2164|Composite_Xbow_part|0 
+2165|Composite_Xbow_part|0 
+2166|Composite_Bow_Part|0 
+2167|Composite_Bow_Part|0 
+2168|Composite_Bow_Part|0 
+2169|Composite_Bow_Part|0 
+2170|Composite_Xbow_part|0 
+2171|Bone_Handle|0 
+2172|Grey_Boulder|0 
+2173|Long_Sword|0 
+2176|Lightning_Ray|0 
+2177|Fire_Ring_Spell|0 
+2178|Acid_Ring_Spell|0 
+2179|Pierce_Ring_Spell|0 
+2180|Lightning_Ring_Spell|0 
+2181|Bludgeon_Ring_Spell|0 
+2182|Cold_Ring_Spell|0 
+2183|Blade_Ring_Spell|0 
+2185|Corpse|0 
+2186|Corpse|0 
+2187|Corpse|0 
+2189|Horizontal_Wooden_Shank|0 
+2195|Spiked_Club|0 
+2198|Aerfalle's_Staff|0 
+2199|Large_Screened_Wall|0 
+2200|Large_Screened_Floor|0 
+2201|Floating_Ball_of_Fire|0 
+2202|Black_Wisp_[nighmarewisp?]|5 
+2204|Asheron's_Chosen|5 
+2206|Board_with_Nail|0 
+2207|Board_with_Nail|0 
+2208|Naginata|0 
+2209|Trident|0 
+2210|Vapor_Golem|5 
+2212|Plasma_Golem|5 
+2213|Hollow_Sword|0 
+2214|Hollow_Spear|0 
+2215|Hollow_Staff|0 
+2216|Hollow_Katar|0 
+2217|Hollow_Mace|0 
+2218|Hollow_Dagger|0 
+2219|Hollow_Axe|0 
+2220|Ravenous_Staff|0 
+2221|Ravenous_Spear|0 
+2222|Ravenous_Mace|0 
+2223|Ravenous_Katar|0 
+2224|Raveneous_Dagger|0 
+2225|Raveneous_Axe|0 
+2226|Raveneous_Sword|0 
+2227|Lightning_Spiked_Club|0 
+2228|Smoking_Trident|0 
+2229|Flaming_Trident|0 
+2230|Smoking_Spiked_Club|0 
+2231|Frost_Naginata|0 
+2232|Electric_Naginata|0 
+2233|Flaming_Naginata|0 
+2234|Smoking_Naginata|0 
+2235|Frost_Trident|0 
+2236|Electric_Trident|0 
+2237|Frost_Spiked_Club|0 
+2238|Acid_Naginata|0 
+2239|Acid_Spiked_Club|0 
+2240|Flaming_Spiked_Club|0 
+2241|Acid_Trident|0 
+2242|Huge_Cloud_of_Steam|0 
+2245|Horizontal_Yellow_Portal|0 
+2246|Brown_Beans|0 
+2247|Meat_Grinder|0 
+2248|Holt_Burger|0 
+2249|Metal_Press_[???]|0 
+2250|Drudge_Gut_Sausage|0 
+2251|Steel_Toed_Boots|0 
+2254|Huge_Flames|0 
+2259|Thick_White_Steam|0 
+2260|Thin_White_Steam|0 
+2263|Thin_White_Steam|0 
+2264|Thick_Yellow_Steam|0 
+2265|Thin_Yellow_Steam|0 
+2266|Grievver|5 
+2267|Grey_Stalagtite|0 
+2268|Brown_Stalagmite|0 
+2270|Brown_Stalagmite|0 
+2271|Grey_Stalagtite|0 
+2272|Grey_Stalagmite|0 
+2273|Black/purple_Stalagtite|0 
+2274|Black/purple_Stalagmite|0 
+2275|Thunder_Storm_Sound|0 
+2276|Thunder_Storm_Sound|0 
+2277|Thunder_Storm_Sound|0 
+2278|Fading_white_object_falling_from_sky|0 
+2279|Fading_white_object_falling_from_sky|0 
+2280|Huge_White_Light_Effect|0 
+2281|Fading_white_object_falling_from_sky|0 
+2282|Fading_white_object_falling_from_sky|0 
+2283|Fading_white_object_falling_from_sky|0 
+2284|Fading_white_object_falling_from_sky|0 
+2285|Dead_Female_Avatar|0 
+2286|Dead_Female_Avatar|0 
+2287|Dead_Female_Avatar|0 
+2288|Dead_Male_Avatar|0 
+2289|Dead_Male_Avatar|0 
+2290|Dead_Male_Avatar|0 
+2291|Obsidian_plain_crystals|0 
+2292|Obsidian_plain_crystals|0 
+2293|Obsidian_plain_crystals|0 
+2294|Obsidian_plain_crystals|0 
+2295|Obsidian_plain_crystals|0 
+2296|Obsidian_plain_crystals|0 
+2297|Fragment|5 
+2298|Dual_Fragment|5 
+2299|Broken_Fragment|5 
+2300|Nexus_Fragment|5 
+2301|Swirling_Blue/black_cloud|0 
+2302|Jagged_Stone_Slab|0 
+2303|Brown_Rock_Structure|0 
+2308|Fenmalain_Gate|0 
+2309|Swirling_Cloud_of_Smoke|0 
+2311|Fenmalain_Key|0 
+2312|Jagged_Stone_Slab|0 
+2313|Arrow|0 
+2314|Crystal_Arrow|0 
+2315|Flaming_Crystal_Arrow|0 
+2316|Flaming_Crystal_Arrow|0 
+2317|Crystal_Arrow_Heads|0 
+2318|Yellow_Dye_Vial|0 
+2320|Crushed_Dye_Plant|0 
+2321|Yellow_Dye_Pot|0 
+2322|Varius_Black__wooden__Structure_pieces|0 
+2323|Varius_Black__wooden__Structure_pieces|0 
+2324|Varius_Black__wooden__Structure_pieces|0 
+2325|Varius_Black__wooden__Structure_pieces|0 
+2326|Varius_Black__wooden__Structure_pieces|0 
+2327|Varius_Black__wooden__Structure_pieces|0 
+2328|Varius_Black__wooden__Structure_pieces|0 
+2329|Varius_Black__wooden__Structure_pieces|0 
+2331|Smoking_Dead_Cow|0 
+2332|Broken_Pyramid_Pillar|0 
+2333|Horizontal_Pyramid_Pillar_with_Moss|0 
+2334|Earthen_Ground|0 
+2335|Glowing_Cabbage_[Focus_stone?]|0 
+2336|Cabbage_with_portal_gem_Aura|0 
+2337|Portal_Gem|0 
+2338|Scattered_Bricks|0 
+2339|Large_Stone_Corner_piece|0 
+2340|Stone_Wall_with_Arched_doorway|0 
+2341|Ursuin|5 
+2342|Niffis|5 
+2351|Lightning_pulse_ray_[Lyceum]|0 
+2353|Empyrean_Desk|0 
+2354|Large_Stone_Object_on_its_side|0 
+2355|Green_slab_with_stone_stand|0 
+2356|Stone_Ledge|0 
+2357|Stone_Table|0 
+2358|Stone_Table_w/_green_part|0 
+2360|Hollow_Minion|5 
+2363|Empyrean_Chair|0 
+2364|Sentinel_Wedding_Fireworks|0 
+2376|Empyrean_Vace|0 
+2377|Jacko'lantern|0 
+2379|Emyrean_Table|0 
+2380|Glowing_Jacko'lantern|0 
+2381|Table_with_Dark_Red_middle|0 
+2382|Broken_Empyrean_Table|0 
+2383|Dark_Red_Round_Table|0 
+2384|Large_basket_with_trim|0 
+2385|Empyrean_Painting|0 
+2386|Empyrean_Painting|0 
+2388|Empyrean_Painting|0 
+2389|Small_Dark_Red_Stool|0 
+2390|Banderling_Head|0 
+2391|Drudge_Head|0 
+2392|Mosswart_Head|0 
+2393|Skeleton's_Skull|0 
+2394|Tusker's_Head|0 
+2395|Virindi_Head|0 
+2397|Empyrean_Painting|0 
+2399|Large_Empyrean_Painting|0 
+2400|Large_Empyrean_Painting|0 
+2401|Large_Empyrean_Painting|0 
+2402|Empyrean_Painting|0 
+2404|Goldenback_Tusker|5 
+2405|Empyrean_Throne|0 
+2406|Empyrean_Couch|0 
+2407|Empyrean_Alter|0 
+2408|Empyrean_Alter|0 
+2409|Empyrean_Alter|0 
+2410|Small_Empyrean_Alter|0 
+2411|Empyrean_Vase_w/handles|0 
+2412|Book_Shelves|0 
+2413|Mana_Pool|0 
+2415|Empyrean_Fountain|0 
+2416|White_Desk|0 
+2417|White_Bench|0 
+2419|Crystal_Nodules_[Knath_Eggs]|0 
+2420|Discus|0 
+2421|Beer_Keg|0 
+2422|Beer_Stien|0 
+2423|Revised_Olthoi_Helm|0 
+2424|Armet|0 
+2426|Flaming_Jack'olantern|0 
+2428|King's_Helm|0 
+2429|Shadow's_Garb|0 
+2430|Ogre_Mask|0 
+2431|Empyrean_Bed|0 
+2432|Shadow_Spire|0 
+2433|Xarabydun_Sign|0 
+2434|Olthoi_Head|0 
+2435|Hollow_Minion|5 
+2436|Hollow_Minion|5 
+2438|Orb_of_the_Bunny_Booty|0 
+2439|Hollow_Minion_w/_Pumpkin_in_hand|0 
+2440|Vessayan_dungeon_Stalagmite|0 
+2441|Sand_Stalagmite|0 
+2442|Vessayan_dungeon_Stalagtite|0 
+2443|Light_purple_Stalagtite|0 
+2444|Vessayan_dungeon_Door|0 
+2445|Vessayan_dungeon_Pit_tile|0 
+2447|Floating_Blue_Particles_going_up|0 
+2450|Moarsman|5 
+2451|Revised_Heaume|0 
+2452|Floating_Olthoi_Fungus|0 
+2453|Swirling_Bright_Blue_Smoke|0 
+2454|Swirling_Bright_Blue_Smoke_w/_lightning|0 
+2455|Small_Swirling_Bright_Blue_Smoke|0 
+2457|Wide_Swirling_Cloud_of_Smoke|0 
+2458|Sign_pointing_left|0 
+2459|Idol|5 
+2460|Idol_w/_glowing_eyes|5 
+2461|Idol|5 
+2462|Bael'Zharon|5 
+2466|Bright_Stone_Stairway|0 
+2467|Tall_Wooden_Torch_light|0 
+2469|Rumumba's_Spear|0 
+2470|Rumumba's_Spear_Head|0 
+2471|Blue_Gem_with_Glow|0 
+2472|Tall_Town_Crier_Welcome_Stone|0 
+2473|Slightly_Open_Decorative_Empyrean_Door|0 
+2474|Spinning_Sparkly_Gem_floating_on_a_stand|0 
+2475|Tomb|0 
+2476|Raised_Tomb|0 
+2477|Pulsing_Cabbage_[Helears_heart]|0 
+2481|Swirling_Cloud_of_Smoke|0 
+2482|Leaves_blowing_in_the_wind|0 
+2484|Bones_on_ground|0 
+2485|Bones_on_ground|0 
+2486|Letter_with_red_markings|0 
+2487|Letter_with_red_markings_&_black_stamp|0 
+2488|Red_Letter|0 
+2489|Red_letter_&_black_stamp|0 
+2490|Red_Stamp|0 
+2492|Skull_with_Blue_Glow|0 
+2493|Blue_Gem_with_Pink_Glow|0 
+2494|Blue_Gem_with_Red_Glow|0 
+2495|Blue_Gem_with_Pulsing_Red_Glow|0 
+2496|Blue_Gem_with_Pulsing_Pink_Glow|0 
+2497|Lightweight_Tomb|0 
+2498|Glowing_Wisp_Heart_[Nightmare_wisp]|0 
+2499|Sickly_Wisp_Heart_[weak_wisps]|0 
+2500|Pulsating_Wisp_Heart_[fire_wisp]|0 
+2501|Dark_Heart|0 
+2502|Essence_Flicker|0 
+2503|Essence_Flare|0 
+2504|Asheron|5 
+2505|Bow_with_Green_Glow|0 
+2506|Corpse_[illservians_body_perhaps??]|0 
+2508|Bael'zharon_Staff|0 
+2509|Bael'zharon_Helm|0 
+2510|Ursuin_Helm|0 
+2511|Cabbage_with_purple_glow|0 
+2512|Vortex_[focus_stone]|0 
+2514|Bell_ringing_sound|0 
+2515|Cabbage_with_yellow_glow|0 
+2516|Lightning_Ray_|0 
+2517|Sword_of_Lost_Hope|0 
+2518|Alter_with_Corpse_[illservians_body??]|0 
+2519|Bandit_Hilt|0 
+2520|Bandit_Hilt|0 
+2521|Very_Tall_statue_with_Crystal_Fragment|0 
+2522|Red_Essence|0 
+2523|Red_Essence|0 
+2524|Warbling_Noise|0 
+2525|Swirling_Blue_stars|0 
+2526|Swirling_Blue_stars|0 
+2527|Slow_Swirling_Red_Stars|0 
+2528|Swirling_Red_Stars|0 
+2529|Puzzle_Box|0 
+2530|Obsidian_Plains_Crystal|0 
+2531|Glittering_Crystaline_Key_[mage_armor]|0 
+2532|Grieever_Acid|0 
+2533|Hieromancer's_Orb|0 
+2534|Mosswart_hanging_by_arms|0 
+2535|Globe_of_Auberean|0 
+2537|Singularity_Sword|0 
+2538|Singularity_Axe|0 
+2539|Singularity_Mace|0 
+2540|Singularity_Spear|0 
+2541|Tardis!?|0 
+2543|Potion_with_Blue_Sparkles|0 
+2544|Glowing_Cabbage|0 
+2545|Steel_Toed_Boot|0 
+2546|Steel_Toed_Boot|0 
+2547|Purple_Essence|0 
+2548|Purple_Lighting_Effect|0 
+2550|Sparkling_Virindi|0 
+2551|Arrow_heads_w/green_glow|0 
+2552|Arrow_heads_w/purple_glow|0 
+2553|Arrow_heads_w/orange_glow|0 
+2554|Arrow_w/_green_glow|0 
+2555|Arrow_w/purple_glow|0 
+2556|Arrow_w/orange_glow|0 
+2557|Quarrel_w/green_glow|0 
+2558|Quarrel_w/purple_glow|0 
+2559|Quarrel_w/orange_glow|0 
+2560|Sclavus_Helm|0 
+2561|Fang_Mace|0 
+2562|Faint_purple_orb|0 
+2563|Dark_Marionette|5 
+2564|Doll|5 
+2566|Mnesomene|0 
+2567|Unlocked_Mnesomene|0 
+2568|Virindi__Key|0 
+2569|Virindi_Trove|0 
+2570|Helm_of_the_Crag|0 
+2571|Lugian|5 
+2572|Lugian_Pauldron|0 
+2573|Golden_Key|0 
+2574|Golden_Key|0 
+2575|Small_container|0 
+2576|Spear_of_Purity|0 
+2578|Staff_of_Clarity|0 
+2579|Lugian_item_|0 
+2580|Some_kind_of_lava_contraption_[???]|0 
+2581|Lugian_item|0 
+2582|Lugian_Crest|0 
+2583|Dread_Mattekar_Paw|0 
+2584|Dread_Mattekar_Claw|0 
+2585|Dire_Mattekar_Arm_Guard|0 
+2586|Dire_Mattekar_Paw|0 
+2587|Avatar_with_Aegis|0 
+2588|Avatar_in_state_of_Pose|0 
+2591|Lugian_Battle_Paintings|0 
+2594|Lugian_Battle_Paintings|0 
+2595|Half_open_Sparkling_Chest|0 
+2596|Puzzle_Piece|0 
+2597|Eyedropper|0 
+2598|Arrowheads|0 
+2599|3_arrowshafts_on_floor|0 
+2600|3_arrowshafts_on_floor|0 
+2601|Blue_Essence|0 
+2602|Chef's_Hat|0 
+2603|Fletcher's_Hat|0 
+2604|Alchemist's_Hat|0 
+2605|Small_flapped_object|0 
+2609|Casino_Star|0 
+2610|Sparkly_Cabbage|0 
+2611|Niffis_Shield|0 
+2612|Niffis_Shell|0 
+2613|Large_Tree_With_Leaves|0 
+2614|Ridgid_Olthoi_Eviscerator|5 
+2615|Marae_Flower|0 
+2616|Narrow_Green_Tree|0 
+2617|Quiddity_Cabbage|0 
+2618|Quiddity_Cabbage|0 
+2623|Pot_with_green_liquid|0 
+2624|Drying_Fish_Hanging_from_pole|0 
+2625|Spike_w/dead_rat|0 
+2626|Aluvian_House|0 
+2627|Siraluun|5 
+2628|Small_Triangular_Rock|0 
+2629|Timaru_wood_Statue|0 
+2630|Virtous_Doll|5 
+2631|Virtuous_Doll|5 
+2634|Wooden_Stairway|0 
+2635|Quintessence_Sickle|0 
+2636|Green_Essence|0 
+2638|Half_Open_Chest|0 
+2640|Marae_Structure_w/banner|0 
+2641|Marae_Structure_w/banner|0 
+2642|Wooden Stairs|0 
+2643|Bael'Zharon_w/Virindi_face|0 
+2644|Broken_Bael'Zharon|0 
+2646|Marae_Tree_House|0 
+2649|Grass|0 
+2650|Warbling_Sound|0 
+2651|Warbling_Sound|0 
+2652|Fizzling_Electrical_Sound|0 
+2653|Combustion_Noise|0 
+2654|Combustion_Sound|0 
+2655|Screams_of_pain_Sound|0 
+2656|Screaming_Woman_Sound|0 
+2657|Highpitched_Shreek_Sound|0 
+2658|Moaning_Sound|0 
+2660|Pink_Virindi_Spire|0 
+2662|Warbling_Sound|0 
+2663|Large_Tree_w/Leaves|0 
+2665|Rift|5 
+2666|Rift|5 
+2668|Rift|5 
+2669|Rift|5 
+2670|Rift|5 
+2672|Quiddity_Axe|0 
+2673|Quiddity_Dagger|0 
+2674|Quiddity_Sword|0 
+2675|Quiddity_Staff|0 
+2676|Quiddity_Spear|0 
+2677|Quiddity_Fist|0 
+2678|Quiddity_Mace|0 
+2679|Quiddity_Bow|0 
+2680|Quiddity_Xbow|0 
+2681|Cricket_Sounds|0 
+2682|Chittering_Sound|0 
+2683|Eye_of_The_Quiddity|0 
+2685|Purple_Aun|5 
+2686|Tall_Marae_Gates|0 
+2698|Little_Green_Seeds|0 
+2699|Warbling_Sound|0 
+2700|House_Hook|0 
+2701|House_Hook|0 
+2702|House_Hook|0 
+2703|Hanging_canvas|0 
+2704|Olthoi_Queen|5 
+2705|Eerie_Moaning_Sound|0 
+2706|Tall_Stone_Staircase|0 
+2708|Ursuin_Rug??|0 
+2709|Carenzi|5 
+2710|Strange_Sound|0 
+2711|Colorfull_Chest|0 
+2712|Lawn_Drudge|0 
+2715|Tall_Stone_Staircase|0 
+2716|Mounted_Queen_Head|0 
+2717|Marae_Statue_on_its_side|0 
+2718|Map_of_Dereth_Painting|0 
+2719|Tall_Olthoi_Timaru_Statue|0 
+2720|Spiked_Torch_w/Dead_Rat|0 
+2721|Strange_Music_Machine??|0 
+2723|House_Fountain|0 
+2729|Blue_Olthoi|5 
+2730|Blue_Olthoi|5 
+2731|Blue_Olthoi|5 
+2732|Blue_Olthoi|5 
+2733|Olthoi_Queen|5 
+2734|Floating_Moon_w/triangle|0 
+2735|Covenant_Crystal|0 
+2736|Tall_Stone_Post|0 
+2737|Stone_Structure_w/blue_ivy|0 
+2738|Stone_Structure_w/blue_Crystal|0 
+2739|Olthoi_dungeon_wall_with_fungus|0 
+2740|Olthoi_dungeon_fungus_eruption|0 
+2742|Black/Purple_Tree_w/no_Leaves|0 
+2743|Purple_Aun|5 
+2745|Tall_Torch_light|0 
+2746|Table_w/stretched_leather|0 
+2747|Tree_Stump_Chair|0 
+2748|Blue_Spire|0 
+2749|Green_Spire|0 
+2750|Red_Spire|0 
+2751|Tall_Mushroom|0 
+2752|Tall_Mushroom|0 
+2753|Short_Mushroom|0 
+2754|Short_Mushroom|0 
+2755|Medium_Mushroom|0 
+2757|Short_Mushroom|0 
+2758|Short_Mushroom|0 
+2759|Purple_Larvae_Spike|0 
+2760|Purple_Larvae_Spike|0 
+2761|Purple_Larvae_Spike|0 
+2762|Purple_Marae_Flower|0 
+2763|Pink_Marae_Flower|0 
+2764|Red_Marae_Flower|0 
+2766|Olthoi_Queen_Head|0 
+2767|Carenzi_Hole|0 
+2768|Assault_Axe|0 
+2769|Assault_Bow|0 
+2770|Assault_Fist|0 
+2771|Assault_Dagger|0 
+2772|Assault_Mace|0 
+2773|Assault_Spear|0 
+2774|Assault_Staff|0 
+2775|Assault_Sword|0 
+2776|Assault_Xbow|0 
+2777|Assault_Eye_of_the_Quiddity??|0 
+2779|Pot_w/Purple_liquid|0 
+2780|Pot_w/Yellow_liquid|0 
+2781|Suit_of_Armor|0 
+2782|Pot_w/Green_Soup|0 
+2783|Pyreal_Bell|0 
+2784|Butterfly_Necklace|0 
+2785|Olthoi_Egg|0 
+2786|Tessera|0 
+2787|Amulet_[Aun_Pendant??]|0 
+2791|Virindi_Implant|0 
+2794|Crop|0 
+2795|Ebon_Spine_Harpoon|0 
+2796|Elari_Wood_Bow|0 
+2797|Siraluun Matihao|0 
+2798|Pyreal_Mace|0 
+2799|Virindi_Scalpel|0 
+2800|Stave_of_Palenqual_[Staff]|0 
+2801|Living_Weapon|0 
+2802|Living_Weapon|0 
+2803|Living_Weapon|0 
+2804|Living_Weapon|0 
+2805|Living_Weapon|0 
+2806|Kalindan_of_Palenqual_[Xbow]|0 
+2807|Falcon_Banner|0 
+2808|Crest|0 
+2809|Banner_w/haft|0 
+2810|Haft|0 
+2811|Banner_w/haft|0 
+2812|Haft|0 
+2813|Banner_w/haft|0 
+2814|Haft|0 
+2815|Spear_Head|0 
+2816|Symbol|0 
+2820|Aun_Drum|0 
+2821|Banner_w/haft_and_Crest|0 
+2822|Banner_w/haft_and_spear_head|0 
+2823|Banner_w/haft_and_symbol|0 
+2824|Banner_w/haft_and_crest|0 
+2825|Banner_w/haft_and_spear_head|0 
+2826|Banner_w/haft_and_symbol|0 
+2827|Banner_w/haft_and_crest|0 
+2828|Banner_w/haft_and_spear_head|0 
+2829|Banner_w/haft_and_symbol|0 
+2830|Plaque_[House_Item]|0 
+2831|Totem|0 
+2832|Double_Totem|0 
+2833|Double_Totem|0 
+2834|Double_Totem|0 
+2835|Double_Totem|0 
+2836|Double_Totem|0 
+2837|Double_Totem|0 
+2838|Totem|0 
+2839|Tripple_Totem|0 
+2840|Tripple_Totem|0 
+2841|Tripple_Totem|0 
+2842|Tripple_Totem|0 
+2843|Tripple_Totem|0 
+2844|Tripple_Totem|0 
+2845|Totem|0 
+2846|Escorto's_Chisel|0 
+2847|Small_Vial|0 
+2848|Flat_Silver_Cylinder|0 
+2849|Swirling_Green_Cloud|0 
+2850|Swirling_Orange_Cloud|0 
+2852|Olthoi_Holograph_effect|0 
+2853|Olthoi_Queen's_Tail|0 
+2856|Siraluun Headdress|0 
+2857|Virindi_Implant|0 
+2858|Obsidian_Pillar|0 
+2859|Obsidian_Pillar|0 
+2860|Obsidian_Pillar|0 
+2861|Pink_Marae_Flower|0 
+2862|Purple_Marae_Flower|0 
+2863|Red_Marae_Flower|0 
+2865|Awakener|0 
+2866|Black_Smoke|0 
+2867|Orange_Fire_w/black_smoke|0 
+2868|Blue_and_Orange_Fire|0 
+2870|Engraving_w/Strange_Staff|0 
+2871|Engraving_w/White_Figurine|0 
+2872|Tall_Mushroom|0 
+2873|Short_Mushroom|0 
+2874|Medium_Mushroom|0 
+2875|Short_Mushroom|0 
+2876|White_Figurine|0 
+2877|Strange_Staff|0 
+2878|Strange_Staff_w/White_Figurine|0 
+2879|Upgraded_Singularity_Axe|0 
+2880|Upgraded_Singularity_Bow|0 
+2881|Upgraded_Singularity_Xbow|0 
+2882|Upgraded_Singularity_Dagger|0 
+2883|Upgraded_Singularity_Katar|0 
+2884|Upgraded_Singularity_Mace|0 
+2885|Upgraded_Singularity_Staff|0 
+2886|Upgraded_Singularity_Spear|0 
+2887|Upgraded_Singularity_Sword|0 
+2888|Staff|0 
+2889|Xbow|0 
+2890|Dagger|0 
+2891|Katar|0 
+2892|Bow|0 
+2893|Bottom_of_Waterfall|0 
+2894|Waterfall|0 
+2895|Mosswart_[new]|5 
+2896|Chandalier|0 
+2897|Bone_Mace|0 
+2901|Scroll_of_Dark_Rain|0 
+2902|Obsidian_Axe|0 
+2903|Basalt_Blade|0 
+2904|Energy_Crown|0 
+2905|Serpant's_Fang|0 
+2906|Dark_Sorcer's_Phylactory|0 
+2907|Tall_Unlit_Torch_Post|0 
+2908|Crystal_Sword|0 
+2909|Painting_[House_Item]|0 
+2910|Painting_[House_Item]|0 
+2911|Painting_[House_Item]|0 
+2912|Painting_[House_Item]|0 
+2913|Marae_Portal_Prongs|0 
+2914|Soul_Staff|0 
+2916|Simulcra_Shield|0 
+2917|Marae_Aun_Structure|0 
+2918|Marae_Aun_Structure|0 
+2919|Marae_Aun_Structure|0 
+2920|Marae_Aun_Structure|0 
+2921|Asteliary_Orb|0 
+2922|Imbued_Asteliary_Orb|0 
+2927|Lightning_Ray|0 
+2929|Jack'o'Lantern|0 
+2930|Sclavus_Mask|0 
+2931|Zombie_Mask|0 
+2932|Doll_Mask|0 
+2933|Ursuin_Mask|0 
+2934|Flaming_Skull|0 
+2935|Pyreals|0 
+2936|Banderling_Wand|0 
+2937|Drudge_Wand|0 
+2938|Mosswart_Wand|0 
+2939|Skull_Wand|0 
+2940|Tusker_Wand|0 
+2941|Monougat|0 
+2942|Energy_Crystal|0 
+2944|Falatacot_Seal|0 
+2945|Dabus_w/Skull|0 
+2946|Glittering_Yellow_Crystal|0 
+2947|Yellow_Crystal_w/Blue_&_Pink|0 
+2948|Small_Yellow_Crystal|0 
+2949|Small_Flashing_Yellow_Crystal|0 
+2950|Escorto's_Chisel|0 
+2951|Candy_Apple|0 
+2952|Pwyll's_Crown|0 
+2953|Veil_of_Darkness|0 
+2954|Koji's_Beast|0 
+2955|Writ_of_Refuge|0 
+2957|Lit_Candelabra_[House_Item]|0 
+2958|Agent_of_Arcanum_Sign|0 
+2959|Revised_Axe_of_Black_Fire|0 
+2960|Revised_Dagger_of_Black_Fire|0 
+2961|Revised_Claw_of_Black_Fire|0 
+2962|Revised_Mace_of_Black_Fire|0 
+2963|Revised_Spear_of_Black_Fire|0 
+2964|Revised_Staff_of_Black_Fire|0 
+2965|Revised_Sword_of_Black_Fire|0 
+2966|Revised_Axe_of_Black_Fire|0 
+2967|Revised_Dagger_of_Black_Fire|0 
+2968|Revised_Dagger_of_Black_Fire|0 
+2969|Revised_Claw_of_Black_Fire|0 
+2970|Revised_Claw_of_Black_Fire|0 
+2971|Revised_Axe_of_Black_Fire|0 
+2972|Revised_Mace_of_Black_Fire|0 
+2973|Revised_Spear_of_Black_Fire|0 
+2974|Revised_Spear_of_Black_Fire|0 
+2975|Revised_Sword_of_Black_Fire|0 
+2976|Revised_Staff_of_Black_Fire|0 
+2977|Revised_Staff_of_Black_Fire|0 
+2978|Revised_Mace_of_Black_Fire|0 
+2979|Revised_Sword_of_Black_Fire|0 
+2981|Spinning_Settlement_Pillar|0 
+2982|Lightning_Storm_Effect|0 
+2987|Blue_Olthoi_w/broken_arms|0 
+2988|Short_Tree_w/Brown_Leaves|0 
+2989|Short_Tree_w/Brown_Leaves|0 
+2990|Short_Tree_w/Brown_Leaves|0 
+2991|Bookcase_on_Floor|0 
+2992|Slanted_Bookcase|0 
+2993|Tipped_Over_Bookcase|0 
+2994|Tipped_Over_Chair|0 
+2995|Tipped_Over_Chair|0 
+2996|Tipped_Over_Chair|0 
+2997|Tipped_Over_Bench|0 
+2998|Tipped_Over_Bench|0 
+2999|Shattered_Vase|0 
+3000|Broken_Dungeon_Door|0 
+3001|Atlatl|0 
+3002|Atlatl_Dart|0 
+3003|Bunny_Slippers|0 
+3004|Bunny_Slipper|0 
+3005|Collapsed_Wood_Golem|0 
+3006|Collapsed_Wood_Golem|0 
+3007|Orange_Protection_Spire|0 
+3008|Sho_Screen|0 
+3009|Candy_Stick|0 
+3010|Peppermint_Stick|0 
+3011|Snowman_w/Fez|0 
+3012|Snowman|0 
+3013|Headless_Snowman|0 
+3014|Unarmed_Snowman|0 
+3015|Noseless_Snowman|0 
+3016|Hearth|0 
+3017|Christmas_Tree|0 
+3018|Wreath|0 
+3019|Two_Headed_Snowman|0 
+3020|Ebon_Spine_Harpoon|0 
+3021|Green_and_Orange_Fire|0 
+3024|Wreath|0 
+3025|Tall_Christmas_Tree|0 
+3026|Warbling_Sound|0 
+3028|Warbling_Sound|0 
+3030|Bird_Sounds|0 
+3031|Housing_Village_Sign|0 
+3032|Wooden_Portal_Arch|0 
+3033|Orange_Flame_Effect|0 
+3034|Black_Broken_Pillars|0 
+3035|Broken_Tutorial_Sign|0 
+3036|Broken_Tutorial_Sign|0 
+3037|Broken_Tutorial_Sign|0 
+3038|Large_Hearth|0 
+3040|Small_Blue_Spire|0 
+3041|Small_Green_Spire|0 
+3042|Folded_Parchment|0 
+3043|Robe?|0 
+3044|Avatar_in_House_Recall_Pose|0 
+3045|Dead_Avatar|0 
+3046|Trapdoor|0 
+3047|Wooden_Square|0 
+3048|Robe_w/hat|0 
+3049|Lit_Candle|0 
+3050|Two_Headed_Snowman|0 
+3059|Horizontal_Yellow_Portal|0 
+
+*****************NEW**************** 
+
+3060 Stone Texture Tile 
+3065 Human Cookie Cutter 
+3066 Bread Slice 
+3067 Two Bread Slices 
+3068 Gingerbread Man 
+3069 Small Orange Mound 
+3070 Rotating Aun Tumerok with Spear 
+3072 Burning Ember 
+3073 Ember 
+3074 Craftable Prism Fragment of Ice 
+3076 Prismatic Plume 
+3077 Helm of the Elements 
+3078 Partially Opened Double Door 
+3079 Partially Opened Double Door with Purple Energy 
+3080 Partially Opened Double Door with Red Energy 
+3081 Partially Opened Double Door with Blue Energy 
+3082 Partially Opened Double Door with Yellow Energy 
+3083 Partially Opened Double Door with White Energy 
+3084 Partially Opened Double Door with Red Energy 
+3085 Partially Opened Double Door with Green Energy 
+3086 Blue/Red Rift Energy (No Mask) 
+3087 Green/Purple Rift Energy (No Mask) 
+3088 Orange/Red Rift Energy (No Mask) 
+3089 Yellow/Purple Rift Energy (No Mask) 
+3090 Energy Cluster (Blue) 
+3091 Energy Cluster (Green) 
+3092 Energy Cluster (Orange) 
+3093 Energy Cluster (Yellow) 
+3094 Horizontal Portal (Blue) 
+3095 Horizontal Portal (Blue) 
+3096 Horizontal Portal (Green) 
+3097 Horizontal Portal (Green) 
+3098 Horizontal Portal (Purple) 
+3099 Horizontal Portal (Orange) 
+3100 Horizontal Portal (Orange) 
+3101 Horizontal Portal (Red) 
+3102 Horizontal Portal (Red) 
+3103 Horizontal Portal (White) 
+3104 Horizontal Portal (White) 
+3105 Wall of White Energy 
+3106 Wall of Red Energy 
+3107 Wall of Orange Energy 
+3108 Wall of Yellow Energy 
+3109 Wall of Green Energy 
+3110 Wall of Blue Energy 
+3111 Fountain of White Energy 
+3112 Fountain of Red Energy 
+3115 Fountain of Green Energy 
+3116 Fountain of Blue Energy 
+3119 Pillar of Blue Beads 
+3121 Tree Trunk 
+3125 Streak of Purple Ligntning 
+3145 Horizontal Portal (Purple) 
+3146 Horizontal Portal (Blue) 
+3155 Hollow Olthoi 
+3156 Tsuric 
+3157 Theral/Sirocco 
+3158 Double Bookshelf 
+3159 Bookshelf 
+3160 Sacrificial Altar 
+3161 Sacrificed Corpse 
+3162 Book on Podium 
+3163 Atlatl Dart with Glowing Red Tip 
+3164 Atlatl Dart with Glowing Purple Tip 
+3165 Atlatl Dart with Glowing Green Tip 
+3166 Lightning Atlatl Dart 
+3167 Frost Atlatl Dart 
+3168 Fire Atlatl Dart 
+3169 Smoking Atlatl Dart 
+3170 Acid Atlatl Dart 
+3171 Atlatl Dartshaft 
+3172 Bundle of Atlatl Dartshafts 
+3173 Small Pine Tree 
+3175 Large Pine Tree 
+3176 Tall Mushroom 
+3177 Large Short Mushroom 
+3178 Large Tall Mushroom 
+3179 Large Tall Umbrella Mushroom 
+3180 Emblem of Marriage 
+3181 Seal of Marriage 
+3182 Flower 
+3183 Large Boquet of Flowers 
+3184 Small Boquet of Flowers 
+3185 Wedding Cake 
+3186 Large Boquet of Flowers 
+3187 Small Boquet of Flowers 
+3188 Wedding Cake Topper 
+3189 Wedding Trial Door Switch 
+3190 K'nath White 
+3191 K'nath Green 
+3192 K'nath Red 
+3193 Wedding Invitation 
+3194 Apartment Covenant Crystal 
+3195 Nuhumdira's Judgement Damnation Lever 
+3196 Nuhumdira's Judgement Salvation Lever 
+3197 Red "Laser Beam" 
+3198 Timaru Gates 
+3199 Double Bladed Axe 
+3200 Rotating Double Bladed Axe 
+3201 Stone Table Stand 
+3202 Crystal Vase 
+3204 Crystal Vase on Stand 
+3205 Sunflower 
+3206 Crystal Vase on Stand with 5 Sunflowers 
+3207 Crystal Vase with 5 Sunflowers 
+3208 Crystal Vase with 1 Sunflower 
+3209 Crystal Vase with 2 Sunflowers 
+3210 Crystal Vase with 3 Sunflowers 
+3211 Crystal Vase with 4 Sunflowers 
+3212 Crystal Vase on Stand with 1 Sunflower 
+3213 Crystal Vase on Stand with 2 Sunflowers 
+3214 Crystal Vase on Stand with 3 Sunflowers 
+3215 Crystal Vase on Stand with 4 Sunflowers 
+3217 Carena Dwellings RQ Sign 
+3218 Illsin Veranda RQ Sign 
+3219 Alvan Court RQ Sign 
+3220 Marin Court RQ Sign 
+3221 Senmai Court RQ Sign 
+3222 Main Sanctum Residential Hall Sign 
+3223 Raudnar Court RQ Sign 
+3224 Sorveya Court RQ Sign 
+3225 Sigil Veranda RQ Sign 
+3226 Treyval Veranda RQ Sign 
+3227 Sylvan Dwelling RQ Sign 
+3228 Top of the Settlement Portal Nexi Towers 
+3229 Apartment Door 
+3235 RQ Hallway Arch 
+3236 Olthoi Dungeon Stalagmite (Purple) 
+3237 Olthoi Dungeon Stalagmite (Green) 
+3238 Olthoi Dungeon Stalagmite (Orange) 
+3239 Trap Door/Black Tile Chess Board 
+3240 Pedestal Weak Spot 
+3241 Isparian Stone Tool 
+3243 Blizzard 
+3244 Avalanche 
+3245 Conflaguration 
+3246 Conflaguration 2 
+3247 Bronze Nut and Bolt 
+3248 Bronze Coil 
+3249 Bronze Gear 
+3250 Bronze Spring 
+3251 Allain Court RQ Sign 
+3252 Autumn Moon Gardens RQ Sign 
+3253 White Lotus Gate RQ Sign 
+3254 Trellyn Gardens RQ Sign 
+3255 Endara Gate RQ Sign 
+3256 Syrah Dwellings RQ Sign 
+3257 Vindalan Dwellings RQ Sign 
+3258 Forsythian Garden RQ Sign 
+3259 Maru Veranda RQ Sign 
+3260 Sorac Gate RQ Sign 
+3261 Hasina Gardens RQ Sign 
+3262 Alphus Court RQ Sign 
+3263 Ivory Gate RQ Sign 
+3264 Heartland Yard RQ Sign 
+3265 Gajin Dwellings RQ Sign 
+3266 Vesper Gate RQ Sign 
+3267 Mellas Court RQ Sign 
+3268 Larkspur Gardens Sign 
+3269 Winthur Gate RQ Sign 
+3270 Oriel Residential Halls Sign 
+3271 Atrium Residential Halls Sign 
+3272 Valorya Gate RQ Sign 
+3273 Etheric Seal 
+3274 Grievver Cave Spider Web Lower Right Corner 
+3275 Grievver Cave Spider Web Upper Right Corner 
+3276 Grievver Cave Spider Web Upper Left Corner 
+3277 Grievver Cave Spider Web Across Top 
+3278 Grievver Cave Spider Web Full Wall 
+3279 Spool of Silk 
+3280 Cocooned Auroch 
+3282 Auroch Head 
+3283 Skeletal Hand 
+3284 Skeletal Hand 2 
+3285 Hipbone 
+3286 Ribcage 
+3287 Olthoi Soldier Head 
+3288 Olthoi Soldier Carapace 
+3289 Olthoi Soldier Antennae 
+3290 Cocoon 
+3291 Green Flag 
+3297 Isparian Bow 
+3298 Isparian Crossbow 
+3299 Isparian Wand 
+3300 Shivering Isparian Dagger (Old) 
+3301 Stinging Isparian Dagger (Old) 
+3302 Shivering Isparian Dagger (Old) 
+3303 Isparian Dagger (Old) 
+3304 Smoldering Isparian Dagger (Old) 
+3305 Isparian Dagger (Old) 
+3306 Isparian Dagger (Old) 
+3307 Isparian Dagger (Old) 
+3308 Isparian Dagger (Old) 
+3309 Sparking Isparian Dagger (Old) 
+3310 Isparian Dagger (Old) 
+3311 Black Fire Isparian Dagger (Old) 
+3312 Isparian Dagger (Old) 
+3313 Isparian Atlatl 
+3314 Isparian Dagger 
+3315 Black Fire Isparian Bow 
+3316 Black Fire Isparian Bow 
+3317 Black Fire Isparian Bow 
+3318 Isparian Bow 
+3319 Shivering Isparian Bow 
+3320 Isparian Bow 
+3321 Stinging Isparian Bow 
+3322 Isparian Bow 
+3323 Isparian Bow 
+3324 Sparking Isparian Bow 
+3325 Isparian Bow 
+3326 Smoldering Isparian Bow 
+3327 Isparian Bow 
+3328 Shivering Isparian Bow 
+3329 Isparian Bow 
+3330 Isparian Crossbow 
+
+
+Additional (Moved from later posted to here)
+
+
+3334 Shivering Isparian Crossbow 
+3335 Isparian Crossbow 
+3336 Stinging Isparian Crossbow 
+3337 Isparian Crossbow 
+3338 Isparian Crossbow 
+3339 Sparking Isparian Crossbow 
+3340 Isparian Crossbow 
+3341 Smoldering Isparian Crossbow 
+3342 Isparian Crossbow 
+3343 Shivering Isparian Crossbow 
+3344 Isparian Crossbow 
+3345 Black Fire Isparian Wand 
+3346 Black Fire Isparian Wand 
+3347 Black Fire Isparian Wand 
+3348 Isparian Wand 
+3349 Shivering Isparian Wand 
+3350 Isparian Wand 
+3351 Stinging Isparian Wand 
+3352 Isparian Wand 
+3353 Isparian Wand 
+3354 Sparking Isparian Wand 
+3355 Isparian Wand 
+3356 Smoldering Isparian Wand 
+3357 Isparian Wand 
+3358 Shivering Isparian Wand 
+3359 Isparian Wand 
+3360 Black Fire Isparian Atlatl 
+3361 Black Fire Isparian Atlatl 
+3362 Isparian Atlatl 
+3363 Isparian Atlatl 
+3364 Shivering Isparian Atlatl 
+3365 Isparian Atlatl 
+3366 Stinging Isparian Atlatl 
+3367 Isparian Atlatl 
+3368 Isparian Atlatl 
+3369 Sparking Isparian Atlatl 
+3370 Isparian Atlatl 
+3371 Smoldering Isparian Atlatl 
+3372 Isparian Atlatl 
+3373 Shivering Isparian Atlatl 
+3374 Isparian Atlatl 
+3375 Black Fire Isparian Dagger (Old) 
+3376 Black Fire Isparian Dagger (Old) 
+3377 Black Fire Isparian Crossbow 
+3378 Black Fire Isparian Crossbow 
+3379 Black Fire Isparian Crossbow 
+3380 Grievver Cave Web Wall Full 
+3381 Blacksmith Forge 
+3382 Spinning Wheel 
+3386 Bronze Coil 
+3387 Bronze Gear 
+3389 Bronze Spring 
+3391 Loom 
+3392 Large Blue Cloud 
+3393 Human Male Model 
+3394 Horn of Vigilance (Pipe 1 and 2) 
+3395 Horn of Vigilance (Pipe 1 and 3) 
+3396 Horn of Vigilance (Pipe 1) 
+3397 Horn of Vigilance (Pipe 2 and 3) 
+3398 Horn of Vigilance (Pipe 2) 
+3399 Horn of Vigilance (Pipe 3) 
+
